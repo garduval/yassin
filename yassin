@@ -1,631 +1,801 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="La 1 UHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="★ GENERALISTAS ★",La 1 UHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/2
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="★ GENERALISTAS ★",LA 1 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/3
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="★ GENERALISTAS ★",LA 1 HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/4
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="★ GENERALISTAS ★",LA 1 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/5
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 SD ( Móvil )" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="★ GENERALISTAS ★",LA 1 SD ( Móvil )
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/51049
-#EXTINF:-1 tvg-id="La 2" tvg-name="LA 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="★ GENERALISTAS ★",LA 2 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/6
-#EXTINF:-1 tvg-id="La 2" tvg-name="LA 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="★ GENERALISTAS ★",LA 2 HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/7
-#EXTINF:-1 tvg-id="La 2" tvg-name="LA 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="★ GENERALISTAS ★",LA 2 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/8
-#EXTINF:-1 tvg-id="La 2" tvg-name="LA 2 SD ( Móvil )" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="★ GENERALISTAS ★",LA 2 SD ( Móvil )
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/51050
-#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="★ GENERALISTAS ★",ANTENA 3 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/9
-#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="★ GENERALISTAS ★",ANTENA 3 HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/10
-#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="★ GENERALISTAS ★",ANTENA 3 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/11
-#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 SD ( Móvil )" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" group-title="★ GENERALISTAS ★",ANTENA 3 SD ( Móvil )
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/51051
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="★ GENERALISTAS ★",CUATRO FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/12
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="★ GENERALISTAS ★",CUATRO HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/13
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="★ GENERALISTAS ★",CUATRO SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/14
-#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO SD ( Móvil )" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" group-title="★ GENERALISTAS ★",CUATRO SD ( Móvil )
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/51052
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="★ GENERALISTAS ★",TELECINCO FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/15
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="★ GENERALISTAS ★",TELECINCO HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/16
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="★ GENERALISTAS ★",TELECINCO SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/17
-#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO SD ( Móvil )" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="★ GENERALISTAS ★",TELECINCO SD ( Móvil )
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/51053
-#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="★ GENERALISTAS ★",LA SEXTA FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/18
-#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="★ GENERALISTAS ★",LA SEXTA HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/19
-#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="★ GENERALISTAS ★",LA SEXTA SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/20
-#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA SD ( Móvil )" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" group-title="★ GENERALISTAS ★",LA SEXTA SD ( Móvil )
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/51054
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA TV FHD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="★ DOCUMENTALES ★",IBERALIA TV FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/198
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA TV HD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="★ DOCUMENTALES ★",IBERALIA TV HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/199
-#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA TV SD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="★ DOCUMENTALES ★",IBERALIA TV SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/200
-#EXTINF:-1 tvg-id="Iberalia caza" tvg-name="IBERALIA CAZA FHD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="★ DOCUMENTALES ★",IBERALIA CAZA FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/201
-#EXTINF:-1 tvg-id="Iberalia caza" tvg-name="IBERALIA CAZA HD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="★ DOCUMENTALES ★",IBERALIA CAZA HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/202
-#EXTINF:-1 tvg-id="Iberalia caza" tvg-name="IBERALIA CAZA SD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="★ DOCUMENTALES ★",IBERALIA CAZA SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/203
-#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="IBERALIA PESCA FHD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="★ DOCUMENTALES ★",IBERALIA PESCA FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/204
-#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="IBERALIA PESCA HD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="★ DOCUMENTALES ★",IBERALIA PESCA HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/205
-#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="IBERALIA PESCA SD" tvg-logo="https://images2.imgbox.com/d1/c4/S14JmxXh_o.png" group-title="★ DOCUMENTALES ★",IBERALIA PESCA SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/206
-#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA FHD" tvg-logo="https://images2.imgbox.com/86/85/Xq9UsyJN_o.png" group-title="★ DOCUMENTALES ★",CAZA Y PESCA FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/207
-#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA HD" tvg-logo="https://images2.imgbox.com/86/85/Xq9UsyJN_o.png" group-title="★ DOCUMENTALES ★",CAZA Y PESCA HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/208
-#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA SD" tvg-logo="https://images2.imgbox.com/86/85/Xq9UsyJN_o.png" group-title="★ DOCUMENTALES ★",CAZA Y PESCA SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/209
-#EXTINF:-1 tvg-id="Cazavisión" tvg-name="CAZAVISION HD" tvg-logo="https://images2.imgbox.com/1d/5d/55r3s0JU_o.png" group-title="★ DOCUMENTALES ★",CAZAVISION HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/210
-#EXTINF:-1 tvg-id="Cazavisión" tvg-name="CAZAVISION SD" tvg-logo="https://images2.imgbox.com/1d/5d/55r3s0JU_o.png" group-title="★ DOCUMENTALES ★",CAZAVISION SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/211
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M+ PLUS+ FHD" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="★ M+ VAMOS ★",M+ PLUS+ FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/163
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M+ PLUS+ HD" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="★ M+ VAMOS ★",M+ PLUS+ HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/164
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M+ PLUS+ SD" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="★ M+ VAMOS ★",M+ PLUS+ SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/165
-#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="M+ PLUS+ 2 FHD" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="★ M+ VAMOS ★",M+ PLUS+ 2 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/166
-#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="M+ PLUS+ 2 HD" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="★ M+ VAMOS ★",M+ PLUS+ 2 HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/167
-#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="M+ PLUS+ 2 SD" tvg-logo="https://images2.imgbox.com/28/a1/ZfJf5hWc_o.png" group-title="★ M+ VAMOS ★",M+ PLUS+ 2 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/168
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS ʰᵉᵛᶜ" tvg-logo="http://cazadortv.xyz:8080/images/8c0e0bca12cfd3843151df601ef0900c.png" group-title="★ M+ VAMOS ★",#VAMOS ʰᵉᵛᶜ
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/156
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS FHD" tvg-logo="https://images2.imgbox.com/de/1f/wtPdc0wD_o.png" group-title="★ M+ VAMOS ★",#VAMOS FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/157
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS HD" tvg-logo="https://images2.imgbox.com/de/1f/wtPdc0wD_o.png" group-title="★ M+ VAMOS ★",#VAMOS HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/158
-#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="#VAMOS SD" tvg-logo="https://images2.imgbox.com/de/1f/wtPdc0wD_o.png" group-title="★ M+ VAMOS ★",#VAMOS SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/159
-#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="ELLAS #V FHD" tvg-logo="https://images2.imgbox.com/82/a7/uknxkseK_o.png" group-title="★ M+ VAMOS ★",ELLAS #V FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/160
-#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="ELLAS #V HD" tvg-logo="https://images2.imgbox.com/82/a7/uknxkseK_o.png" group-title="★ M+ VAMOS ★",ELLAS #V HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/161
-#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="ELLAS #V SD" tvg-logo="https://images2.imgbox.com/82/a7/uknxkseK_o.png" group-title="★ M+ VAMOS ★",ELLAS #V SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/162
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA ʰᵉᵛᶜ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="★ DAZN LALIGA ★",DAZN LA LIGA ʰᵉᵛᶜ
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/322
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="★ DAZN LALIGA ★",DAZN LA LIGA FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/323
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="★ DAZN LALIGA ★",DAZN LA LIGA HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/324
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="★ DAZN LALIGA ★",DAZN LA LIGA SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/325
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA SD ( Móvil )" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="★ DAZN LALIGA ★",DAZN LA LIGA SD ( Móvil )
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/51916
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LA LIGA 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="★ DAZN LALIGA ★",DAZN LA LIGA 2 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/326
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LA LIGA 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="★ DAZN LALIGA ★",DAZN LA LIGA 2 HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/327
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LA LIGA 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="★ DAZN LALIGA ★",DAZN LA LIGA 2 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/328
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA TV ʰᵉᵛᶜ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="★ M+ LALIGA ★",M+ LALIGA TV ʰᵉᵛᶜ
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/329
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA TV ʰᵉᵛᶜ (Backup)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="Fixtures",M+ LALIGA TV ʰᵉᵛᶜ (Backup)
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/59704
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA TV FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="★ M+ LALIGA ★",M+ LALIGA TV FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/330
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="★ M+ LALIGA ★",M+ LALIGA TV HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/331
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="★ M+ LALIGA ★",M+ LALIGA TV SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/332
-#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LALIGA TV SD ( Móvil )" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="★ M+ LALIGA ★",M+ LALIGA TV SD ( Móvil )
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/54008
-#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ LALIGA TV 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="★ M+ LALIGA ★",M+ LALIGA TV 2 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/333
-#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ LALIGA TV 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="★ M+ LALIGA ★",M+ LALIGA TV 2 HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/47750
-#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+ LALIGA TV 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="★ M+ LALIGA ★",M+ LALIGA TV 2 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/334
-#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-name="M+ LALIGA TV 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="★ M+ LALIGA ★",M+ LALIGA TV 3 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/335
-#EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-name="M+ LALIGA TV 4 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="★ M+ LALIGA ★",M+ LALIGA TV 4 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/336
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LALIGA TV HYPERMOTION FHD" tvg-logo="https://images2.imgbox.com/fb/8f/jDwMezzI_o.png" group-title="★ LALIGA HYPER ★",LALIGA TV HYPERMOTION FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/354
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LALIGA TV HYPERMOTION HD" tvg-logo="https://images2.imgbox.com/fb/8f/jDwMezzI_o.png" group-title="★ LALIGA HYPER ★",LALIGA TV HYPERMOTION HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/355
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LALIGA TV HYPERMOTION SD" tvg-logo="https://images2.imgbox.com/fb/8f/jDwMezzI_o.png" group-title="★ LALIGA HYPER ★",LALIGA TV HYPERMOTION SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/356
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LALIGA TV HYPERMOTION 2 FHD" tvg-logo="https://images2.imgbox.com/d2/a6/tX9M4LeG_o.png" group-title="★ LALIGA HYPER ★",LALIGA TV HYPERMOTION 2 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/357
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LALIGA TV HYPERMOTION 2 HD" tvg-logo="https://images2.imgbox.com/d2/a6/tX9M4LeG_o.png" group-title="★ LALIGA HYPER ★",LALIGA TV HYPERMOTION 2 HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/358
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LALIGA TV HYPERMOTION  2 SD" tvg-logo="https://images2.imgbox.com/d2/a6/tX9M4LeG_o.png" group-title="★ LALIGA HYPER ★",LALIGA TV HYPERMOTION  2 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/359
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LALIGA TV HYPERMOTION 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="★ LALIGA HYPER ★",LALIGA TV HYPERMOTION 3 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/360
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LALIGA TV HYPERMOTION 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="★ LALIGA HYPER ★",LALIGA TV HYPERMOTION 3 HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/361
-#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LALIGA TV HYPERMOTION 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="★ LALIGA HYPER ★",LALIGA TV HYPERMOTION 3 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/362
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LIGA DE CAMPEONES ʰᵉᵛᶜ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES ʰᵉᵛᶜ
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/338
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LIGA DE CAMPEONES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/339
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LIGA DE CAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/340
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LIGA DE CAMPEONES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/341
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LIGA DE CAMPEONES SD ( Móvil )" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES SD ( Móvil )
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/342
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ LIGA DE CAMPEONES 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES 2 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/343
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ LIGA DE CAMPEONES 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES 2 HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/344
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ LIGA DE CAMPEONES 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES 2 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/345
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ LIGA DE CAMPEONES 2 SD ( Móvil )" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES 2 SD ( Móvil )
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/346
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ LIGA DE CAMPEONES 3 FHD (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES 3 FHD (SOLO EVENTOS)
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/347
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ LIGA DE CAMPEONES 3 SD (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES 3 SD (SOLO EVENTOS)
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/348
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ LIGA DE CAMPEONES 3 ( opcion 2 )" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES 3 ( opcion 2 )
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/52124
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ LIGA DE CAMPEONES 4 FHD (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES 4 FHD (SOLO EVENTOS)
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/349
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ LIGA DE CAMPEONES 5 FHD (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES 5 FHD (SOLO EVENTOS)
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/350
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M+ LIGA DE CAMPEONES 6 SD (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES 6 SD (SOLO EVENTOS)
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/351
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ LIGA DE CAMPEONES 7 SD (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES 7 SD (SOLO EVENTOS)
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/352
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M+ LIGA DE CAMPEONES 8 SD (SOLO EVENTOS)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" group-title="★ M+ LIGA DE CAMPEONES ★",M+ LIGA DE CAMPEONES 8 SD (SOLO EVENTOS)
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/353
-#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="★ DAZN España ★",DAZN 1 HD 1080P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/367
-#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="★ DAZN España ★",DAZN 1 HD 720P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/368
-#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="★ DAZN España ★",DAZN 1 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/369
-#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="★ DAZN España ★",DAZN 2 HD 1080P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/370
-#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="★ DAZN España ★",DAZN 2 HD 720P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/371
-#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="★ DAZN España ★",DAZN 2 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/372
-#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="★ DAZN España ★",DAZN 3 HD 1080P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/373
-#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="★ DAZN España ★",DAZN 3 HD 720P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/374
-#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" group-title="★ DAZN España ★",DAZN 3 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/375
-#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="★ DAZN España ★",DAZN 4 HD 1080P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/376
-#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="★ DAZN España ★",DAZN 4 HD 720P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/377
-#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" group-title="★ DAZN España ★",DAZN 4 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/378
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 ʰᵉᵛᶜ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="★ DAZN España ★",DAZN F1 ʰᵉᵛᶜ
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/363
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="★ DAZN España ★",DAZN F1 HD 1080P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/364
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="★ DAZN España ★",DAZN F1 HD 720P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/365
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="★ DAZN España ★",DAZN F1 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/366
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ DEPORTES ʰᵉᵛᶜ" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="★ M+ DEPORTES ★",M+ DEPORTES ʰᵉᵛᶜ
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/379
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ DEPORTES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="★ M+ DEPORTES ★",M+ DEPORTES FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/380
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ DEPORTES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="★ M+ DEPORTES ★",M+ DEPORTES HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/381
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ DEPORTES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="★ M+ DEPORTES ★",M+ DEPORTES SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/382
-#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ DEPORTES 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="★ M+ DEPORTES ★",M+ DEPORTES 2 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/383
-#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ DEPORTES 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="★ M+ DEPORTES ★",M+ DEPORTES 2 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/384
-#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ DEPORTES 3 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="★ M+ DEPORTES ★",M+ DEPORTES 3 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/51159
-#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ DEPORTES 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="★ M+ DEPORTES ★",M+ DEPORTES 3 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/385
-#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ DEPORTES 4 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="★ M+ DEPORTES ★",M+ DEPORTES 4 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/51160
-#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ DEPORTES 4 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="★ M+ DEPORTES ★",M+ DEPORTES 4 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/386
-#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ DEPORTES 5 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" group-title="★ M+ DEPORTES ★",M+ DEPORTES 5 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/51161
-#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ DEPORTES 5 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="★ M+ DEPORTES ★",M+ DEPORTES 5 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/387
-#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ DEPORTES 6 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI8.png" group-title="★ M+ DEPORTES ★",M+ DEPORTES 6 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/51162
-#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ DEPORTES 6 SD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI8.png" group-title="★ M+ DEPORTES ★",M+ DEPORTES 6 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/388
-#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="M+ DEPORTES 7 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/MULTI6.png" group-title="★ M+ DEPORTES ★",M+ DEPORTES 7 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/51163
-#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="M+ DEPORTES 7 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="★ M+ DEPORTES ★",M+ DEPORTES 7 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/389
-#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="M+ GOLF FHD" tvg-logo="https://images2.imgbox.com/4e/db/IPhtmZ17_o.png" group-title="★ OTROS DEPORTES ★",M+ GOLF FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/394
-#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="M+ GOLF HD" tvg-logo="https://images2.imgbox.com/4e/db/IPhtmZ17_o.png" group-title="★ OTROS DEPORTES ★",M+ GOLF HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/395
-#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="M+ GOLF SD" tvg-logo="https://images2.imgbox.com/4e/db/IPhtmZ17_o.png" group-title="★ OTROS DEPORTES ★",M+ GOLF SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/396
-#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-name="M+ GOLF 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="★ OTROS DEPORTES ★",M+ GOLF 2 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/397
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="EUROSPORT 1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="★ OTROS DEPORTES ★",EUROSPORT 1 HD 1080P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/398
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="EUROSPORT 1 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="★ OTROS DEPORTES ★",EUROSPORT 1 HD 720P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/399
-#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="EUROSPORT 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="★ OTROS DEPORTES ★",EUROSPORT 1 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/400
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="★ OTROS DEPORTES ★",EUROSPORT 2 HD 1080P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/401
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="★ OTROS DEPORTES ★",EUROSPORT 2 HD 720P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/402
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="★ OTROS DEPORTES ★",EUROSPORT 2 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/403
-#EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="★ OTROS DEPORTES ★",TELEDEPORTE HD 1080P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/405
-#EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="★ OTROS DEPORTES ★",TELEDEPORTE HD 720P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/406
-#EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="★ OTROS DEPORTES ★",TELEDEPORTE SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/407
-#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="REAL MADRID TV HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="★ OTROS DEPORTES ★",REAL MADRID TV HD 1080P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/408
-#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="REAL MADRID TV HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="★ OTROS DEPORTES ★",REAL MADRID TV HD 720P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/409
-#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="REAL MADRID TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="★ OTROS DEPORTES ★",REAL MADRID TV SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/410
-#EXTINF:-1 tvg-id="Sevilla FC Televisión" tvg-name="SEVILLA TV HD 720P" tvg-logo="https://images2.imgbox.com/f2/96/pB5YpIuq_o.png" group-title="★ OTROS DEPORTES ★",SEVILLA TV HD 720P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/412
-#EXTINF:-1 tvg-id="Betis TV" tvg-name="BETIS TV" tvg-logo="https://images2.imgbox.com/9d/b3/Z54H18vs_o.png" group-title="★ OTROS DEPORTES ★",BETIS TV
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/411
-#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="M+ ACCION FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="★ CINE ★",M+ ACCION FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/31
-#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="M+ ACCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="★ CINE ★",M+ ACCION HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/32
-#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="M+ ACCION SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="★ CINE ★",M+ ACCION SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/33
-#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="M+ COMEDIA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="★ CINE ★",M+ COMEDIA FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/34
-#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="M+ COMEDIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="★ CINE ★",M+ COMEDIA HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/35
-#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="M+ COMEDIA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="★ CINE ★",M+ COMEDIA SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/36
-#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M+ DRAMA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="★ CINE ★",M+ DRAMA FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/37
-#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M+ DRAMA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="★ CINE ★",M+ DRAMA HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/38
-#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M+ DRAMA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="★ CINE ★",M+ DRAMA SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/39
-#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M+ ORIGINALES FHD" tvg-logo="https://images2.imgbox.com/fc/3e/kUg3cQb3_o.png" group-title="★ CINE ★",M+ ORIGINALES FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/40
-#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M+ ORIGINALES HD" tvg-logo="https://images2.imgbox.com/fc/3e/kUg3cQb3_o.png" group-title="★ CINE ★",M+ ORIGINALES HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/41
-#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M+ ORIGINALES SD" tvg-logo="https://images2.imgbox.com/fc/3e/kUg3cQb3_o.png" group-title="★ CINE ★",M+ ORIGINALES SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/42
-#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="M+ CLASICOS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="★ CINE ★",M+ CLASICOS FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/43
-#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="M+ CLASICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="★ CINE ★",M+ CLASICOS HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/44
-#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="M+ CLASICOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="★ CINE ★",M+ CLASICOS SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/45
-#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="M+ ESTRENOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Estrenos_por_Movistar_Plus%2B_2025_Logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="★ CINE ★",M+ ESTRENOS FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/46
-#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="M+ ESTRENOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Estrenos_por_Movistar_Plus%2B_2025_Logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="★ CINE ★",M+ ESTRENOS HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/47
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ ESTRENOS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Estrenos_por_Movistar_Plus%2B_2025_Logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="★ CINE ★",M+ ESTRENOS SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/48
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ CINE Ñ FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="★ CINE ★",M+ CINE Ñ FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/49
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ CINE Ñ FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="★ CINE ★",M+ CINE Ñ FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/50
-#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ CINE Ñ SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="★ CINE ★",M+ CINE Ñ SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/51
-#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="M+ INDIE FHD" tvg-logo="https://images2.imgbox.com/e6/0d/BtMT1cCM_o.png" group-title="★ CINE ★",M+ INDIE FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/53
-#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="M+ INDIE FHD" tvg-logo="https://images2.imgbox.com/e6/0d/BtMT1cCM_o.png" group-title="★ CINE ★",M+ INDIE FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/54
-#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="M+ INDIE SD" tvg-logo="https://images2.imgbox.com/e6/0d/BtMT1cCM_o.png" group-title="★ CINE ★",M+ INDIE SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/55
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="ESPAÑA | TDT 4K-HD",LA 1 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115916.m3u
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="ESPAÑA | TDT 4K-HD",LA 1 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115917.m3u
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png" group-title="ESPAÑA | TDT 4K-HD",LA 1 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115918.m3u
+#EXTINF:-1 tvg-id="La 2" tvg-name="LA 2 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="ESPAÑA | TDT 4K-HD",LA 2 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115919.m3u
+#EXTINF:-1 tvg-id="La 2" tvg-name="LA 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="ESPAÑA | TDT 4K-HD",LA 2 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115920.m3u
+#EXTINF:-1 tvg-id="La 2" tvg-name="LA 2 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="ESPAÑA | TDT 4K-HD",LA 2 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115921.m3u
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="Antena 3 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png" group-title="ESPAÑA | TDT 4K-HD",Antena 3 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115922.m3u
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="Antena 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png" group-title="ESPAÑA | TDT 4K-HD",Antena 3 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115923.m3u
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="Antena 3 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png" group-title="ESPAÑA | TDT 4K-HD",Antena 3 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115924.m3u
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="Cuatro 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png" group-title="ESPAÑA | TDT 4K-HD",Cuatro 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115925.m3u
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="Cuatro HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png" group-title="ESPAÑA | TDT 4K-HD",Cuatro HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115926.m3u
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="Cuatro SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png" group-title="ESPAÑA | TDT 4K-HD",Cuatro SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115927.m3u
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="Telecinco 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png" group-title="ESPAÑA | TDT 4K-HD",Telecinco 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115928.m3u
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="Telecinco HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png" group-title="ESPAÑA | TDT 4K-HD",Telecinco HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115929.m3u
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="Telecinco SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png" group-title="ESPAÑA | TDT 4K-HD",Telecinco SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115930.m3u
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="La Sexta 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" group-title="ESPAÑA | TDT 4K-HD",La Sexta 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115931.m3u
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="La Sexta HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" group-title="ESPAÑA | TDT 4K-HD",La Sexta HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115932.m3u
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="La Sexta SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png" group-title="ESPAÑA | TDT 4K-HD",La Sexta SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115933.m3u
+
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png" group-title="ESPAÑA | OCIO",CAZA Y PESCA 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116081.m3u
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png" group-title="ESPAÑA | OCIO",CAZA Y PESCA HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116082.m3u
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA  SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png" group-title="ESPAÑA | OCIO",CAZA Y PESCA  SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116083.m3u
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="CAZAVISION HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png" group-title="ESPAÑA | OCIO",CAZAVISION HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/61421.m3u
+#EXTINF:-1 tvg-id="Iberalia caza" tvg-name="IBERALIA 100/100 CAZA 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png" group-title="ESPAÑA | OCIO",IBERALIA 100/100 CAZA 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/113845.m3u
+#EXTINF:-1 tvg-id="Iberalia pesca" tvg-name="IBERALIA PESCA 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20pesca.png" group-title="ESPAÑA | OCIO",IBERALIA PESCA 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/113843.m3u
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA ORIGINAL 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png" group-title="ESPAÑA | OCIO",IBERALIA ORIGINAL 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/113844.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="MULTIPANTALLA" tvg-logo="" group-title="ESPAÑA | DEPORTES 4K-HD",MULTIPANTALLA
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/143130.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Finetwork Dazn 1 HD (SOLO EVENTOS)" tvg-logo="" group-title="DAZN | LIGA FEMENINA",Finetwork Dazn 1 HD (SOLO EVENTOS)
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/113818.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Finetwork Dazn 2 HD (SOLO EVENTOS)" tvg-logo="" group-title="DAZN | LIGA FEMENINA",Finetwork Dazn 2 HD (SOLO EVENTOS)
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/113819.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Finetwork Dazn 3 HD (SOLO EVENTOS)" tvg-logo="" group-title="DAZN | LIGA FEMENINA",Finetwork Dazn 3 HD (SOLO EVENTOS)
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/113820.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Finetwork Dazn 4 HD (SOLO EVENTOS)" tvg-logo="" group-title="DAZN | LIGA FEMENINA",Finetwork Dazn 4 HD (SOLO EVENTOS)
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/113821.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Finetwork Dazn 5 HD (SOLO EVENTOS)" tvg-logo="" group-title="DAZN | LIGA FEMENINA",Finetwork Dazn 5 HD (SOLO EVENTOS)
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/113822.m3u
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="Ellas Vamos por M+ 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Ellas Vamos por M+ 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116072.m3u
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="Ellas Vamos por M+ SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Ellas Vamos por M+ SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116074.m3u
+
+#EXTINF:-1 tvg-id="Betis TV" tvg-name="Betis FC FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png" group-title="ESPAÑA | DEPORTES 4K-HD",Betis FC FHD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116257.m3u
+
+#EXTINF:-1 tvg-id="Sevilla FC Televisión" tvg-name="Sevilla FC FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sevilla%20FC%20Televisi%C3%B3n.png" group-title="ESPAÑA | DEPORTES 4K-HD",Sevilla FC FHD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116258.m3u
+
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M+ Por Movistar 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Por Movistar 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/118864.m3u
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M+ Por Movistar HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Por Movistar HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/118914.m3u
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="M+ Por Movistar SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Por Movistar SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/118915.m3u
+#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="Movistar Plus+ 2 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Movistar Plus+ 2 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/119318.m3u
+#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="Movistar Plus+ 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Movistar Plus+ 2 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/119319.m3u
+#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="Movistar Plus+ 2 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Movistar Plus+ 2 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/119320.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 1" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 1
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121013.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 2" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 2
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121014.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 3" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 3
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121015.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 4" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 4
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121016.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 5" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 5
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121017.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 6" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 6
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121018.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 7" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 7
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121019.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 8" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 8
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121020.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 9" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 9
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121021.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 10" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 10
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121022.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 11" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 11
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121023.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 12" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 12
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121024.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 13" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 13
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121025.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 14" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 14
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121026.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 15" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 15
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121027.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 16" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 16
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121028.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 17" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 17
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121029.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 18" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 18
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121030.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 19" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 19
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121031.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 20" tvg-logo="" group-title="ESPAÑA | FEFTV",FEF TV 20
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/121032.m3u
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN | DEPORTES",DAZN LA LIGA SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/330819.m3u
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN | DEPORTES",DAZN LA LIGA HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116874.m3u
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN | DEPORTES",DAZN LA LIGA 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116873.m3u
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="DAZN | DEPORTES",DAZN 1 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116868.m3u
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LALIGA 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="DAZN | DEPORTES",DAZN LALIGA 2 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/110732.m3u
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LALIGA 2 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="DAZN | DEPORTES",DAZN LALIGA 2 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/210411.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga 3 HD" tvg-logo="" group-title="DAZN | DEPORTES",Dazn La Liga 3 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/117161.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga 4 HD" tvg-logo="" group-title="DAZN | DEPORTES",Dazn La Liga 4 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/117162.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dazn La Liga 5 HD" tvg-logo="" group-title="DAZN | DEPORTES",Dazn La Liga 5 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/117163.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN RISE (DEPORTE FEMENINO)" tvg-logo="" group-title="DAZN | LIGA FEMENINA",DAZN RISE (DEPORTE FEMENINO)
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116422.m3u
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="DAZN | DEPORTES",DAZN 1 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116869.m3u
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="DAZN | DEPORTES",DAZN 2 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116871.m3u
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="DAZN | DEPORTES",DAZN 2 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116872.m3u
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-name="DAZN 3 HD" tvg-logo="" group-title="DAZN | DEPORTES",DAZN 3 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116149.m3u
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-name="DAZN 4 HD" tvg-logo="" group-title="DAZN | DEPORTES",DAZN 4 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116152.m3u
+
+#EXTINF:-1 tvg-id="DE | Rally TV" tvg-name="DAZN RALLY TV 4K (MULTIAUDIO)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" group-title="DAZN | DEPORTES",DAZN RALLY TV 4K (MULTIAUDIO)
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/210916.m3u
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+LaLigaTV 4k" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 4k
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116086.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+LaLigaTV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116087.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+LaLigaTV SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116088.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+LaLigaTV 2 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 2 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116089.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+LaLigaTV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 2 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116090.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-name="M+LaLigaTV 2 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 2 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116091.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-name="M+LaLigaTV 3 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 3 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116092.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-name="M+LaLigaTV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 3 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116093.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-name="M+LaLigaTV 3 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 3 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116094.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-name="M+LaLigaTV 4 4k" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 4 4k
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/117149.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-name="M+LaLigaTV 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 4 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/117150.m3u
+#EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-name="M+LaLigaTV 4 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 4 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/117151.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+LaLigaTV 5 4k" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 5 4k
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/117152.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+LaLigaTV 5 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 5 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/117153.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+LaLigaTV 5 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 5 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/117154.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+LaLigaTV 6 4k" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 6 4k
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/117155.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+LaLigaTV 6 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 6 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/117156.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+LaLigaTV 6 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 6 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/117157.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+LaLigaTV 7 4k" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 7 4k
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/117158.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+LaLigaTV 7 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 7 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/117159.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+LaLigaTV 7 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV POR M+",M+LaLigaTV 7 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/117160.m3u
+#EXTINF:-1 tvg-id="Top Barça" tvg-name="TOP BARÇA HD" tvg-logo="" group-title="ESPAÑA | DEPORTES 4K-HD",TOP BARÇA HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/331368.m3u
+
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116104.m3u
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116105.m3u
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="M+ Deportes SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116106.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes 2 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 2 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116107.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 2 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116108.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M+ Deportes 2 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 2 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116109.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 3 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116110.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 3 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116111.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="M+ Deportes 3 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 3 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116112.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 4 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116113.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 4 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116114.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="M+ Deportes 4 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 4 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116115.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ Deportes 5 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 5 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116116.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ Deportes 5 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 5 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116117.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="M+ Deportes 5 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 5 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116118.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ Deportes 6 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 6 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116119.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ Deportes 6 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 6 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116120.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ Deportes 6 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Deportes 6 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116121.m3u
+
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="M+ Golf 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116122.m3u
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="M+ Golf SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116124.m3u
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-name="M+ Golf 2 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf 2 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116125.m3u
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-name="M+ Golf 2 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" group-title="ESPAÑA | DEPORTES 4K-HD",M+ Golf 2 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116127.m3u
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga TV Hypermotion 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116128.m3u
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116129.m3u
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-name="LaLiga TV Hypermotion SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116130.m3u
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga TV Hypermotion 2 4k" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 2 4k
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116131.m3u
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga TV Hypermotion 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 2 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116132.m3u
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-name="LaLiga TV Hypermotion 2 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 2 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116133.m3u
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LaLiga TV Hypermotion 3 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 3 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116134.m3u
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LaLiga TV Hypermotion 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 3 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116135.m3u
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-name="LaLiga TV Hypermotion 3 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 3 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116136.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion 4 4K" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 4 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116822.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion 4 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 4 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116823.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion 4 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 4 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116824.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion 5 4K" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 5 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116825.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion 5 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 5 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116826.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion 5 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 5 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116827.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion 6 4K" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 6 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116828.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion 6 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 6 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116829.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion 6 SD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 6 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116830.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion 7 4K" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 7 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116831.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion 7 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 7 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116832.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion 8 4K" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 8 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116833.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga TV Hypermotion 8 HD" tvg-logo="" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+",LaLiga TV Hypermotion 8 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116834.m3u
+
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="Vamos por M+ 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="ESPAÑA | DEPORTES 4K-HD",Vamos por M+ 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116137.m3u
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="Vamos por M+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="ESPAÑA | DEPORTES 4K-HD",Vamos por M+ HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116138.m3u
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="Vamos por M+ SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="ESPAÑA | DEPORTES 4K-HD",Vamos por M+ SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116139.m3u
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="DAZN | DEPORTES",DAZN F1 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116140.m3u
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="DAZN | DEPORTES",DAZN F1 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116141.m3u
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="DAZN | DEPORTES",DAZN F1 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116142.m3u
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="ESPAÑA | DEPORTES 4K-HD",Eurosport 1 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116155.m3u
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="ESPAÑA | DEPORTES 4K-HD",Eurosport 1 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116157.m3u
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="ESPAÑA | DEPORTES 4K-HD",Eurosport 2 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116158.m3u
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="ESPAÑA | DEPORTES 4K-HD",Eurosport 2 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116160.m3u
+
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL PLAY 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png" group-title="ESPAÑA | DEPORTES 4K-HD",GOL PLAY 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116161.m3u
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL PLAY SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png" group-title="ESPAÑA | DEPORTES 4K-HD",GOL PLAY SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116163.m3u
+
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" group-title="ESPAÑA | DEPORTES 4K-HD",Teledeporte 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116164.m3u
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" group-title="ESPAÑA | DEPORTES 4K-HD",Teledeporte HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116165.m3u
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" group-title="ESPAÑA | DEPORTES 4K-HD",Teledeporte SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116166.m3u
+
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="REAL MADRID TV 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="ESPAÑA | DEPORTES 4K-HD",REAL MADRID TV 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116167.m3u
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="REAL MADRID TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="ESPAÑA | DEPORTES 4K-HD",REAL MADRID TV HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116168.m3u
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="REAL MADRID TV SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="ESPAÑA | DEPORTES 4K-HD",REAL MADRID TV SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116169.m3u
+
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="TENNIS CHANNEL" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Tennis.png" group-title="ESPAÑA | DEPORTES 4K-HD",TENNIS CHANNEL
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/168874.m3u
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116095.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116096.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ Liga de Campeones SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116097.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 2 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116098.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 2 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116099.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M+ Liga de Campeones 2 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 2 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116100.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga de Campeones 3 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 3 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116101.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 3 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116102.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ Liga de Campeones 3 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 3 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116103.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 4 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116173.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 4 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116174.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 4 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116175.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 5 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116176.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 5 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116177.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 5 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116178.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M+ Liga de Campeones 6 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 6 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116179.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M+ Liga de Campeones 7 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 7 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116180.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M+ Liga de Campeones 8 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 8 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116181.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 9 SD" tvg-logo="" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 9 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116182.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 10 SD" tvg-logo="" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 10 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116183.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 11 SD" tvg-logo="" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 11 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116184.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 12 SD" tvg-logo="" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 12 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116185.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+ Liga de Campeones 13 SD" tvg-logo="" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+ Liga de Campeones 13 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116186.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+Liga de Campeones 14" tvg-logo="" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+Liga de Campeones 14
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/325457.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+Liga de Campeones 15" tvg-logo="" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+Liga de Campeones 15
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/325456.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+Liga de Campeones 16" tvg-logo="" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+Liga de Campeones 16
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/325455.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+Liga de Campeones 17" tvg-logo="" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+Liga de Campeones 17
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/325454.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+Liga de Campeones 18" tvg-logo="" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+Liga de Campeones 18
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/325453.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+Liga de Campeones 19" tvg-logo="" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+",M+Liga de Campeones 19
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/325452.m3u
+
+#EXTINF:-1 tvg-id="Esport3 Catalunya" tvg-name="ESPORT3 CAT HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" group-title="ESPAÑA | DEPORTES 4K-HD",ESPORT3 CAT HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/107236.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="[[[[[[ FUTBOL INGLES - LATINO ]]]]]]" tvg-logo="https://doesyoursportcareaboutwomen.com/home/wp-content/uploads/2017/04/EPL-Logo.png" group-title="ESPAÑA | DEPORTES 4K-HD",[[[[[[ FUTBOL INGLES - LATINO ]]]]]]
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/71892.m3u
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-name="BEIN SPORTS ñ FHD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-bein-sport-png-6.png" group-title="ESPAÑA | DEPORTES 4K-HD",BEIN SPORTS ñ FHD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/71960.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 FHD COL" tvg-logo="http://deportesinc.com/depsite/wp-content/uploads/2016/08/ESPN_logo_wordmark.png" group-title="ESPAÑA | DEPORTES 4K-HD",ESPN 1 FHD COL
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/71928.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD COL" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="ESPAÑA | DEPORTES 4K-HD",ESPN 2 FHD COL
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/71929.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD COL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPAÑA | DEPORTES 4K-HD",ESPN 3 FHD COL
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/71930.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ESPN XTRA HD COL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1280px-ESPN_Xtra_logo.svg.png" group-title="ESPAÑA | DEPORTES 4K-HD",ESPN XTRA HD COL
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/71931.m3u
+
+#EXTINF:-1 tvg-id="UBEAT" tvg-name="Ubeat 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UBEAT.png" group-title="ESPAÑA | OCIO",Ubeat 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116220.m3u
+#EXTINF:-1 tvg-id="UBEAT" tvg-name="Ubeat HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UBEAT.png" group-title="ESPAÑA | OCIO",Ubeat HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116221.m3u
+#EXTINF:-1 tvg-id="UBEAT" tvg-name="Ubeat SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UBEAT.png" group-title="ESPAÑA | OCIO",Ubeat SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116222.m3u
+
+#EXTINF:-1 tvg-id="La Liga Inside" tvg-name="LALIGA INSIDE" tvg-logo="https://media.tvup.cloud/canales/color_lg_654b7c53df47884c5b032b4e.png" group-title="ESPAÑA | LALIGA TV POR M+",LALIGA INSIDE
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/140095.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 1" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 1
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208742.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 2" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 2
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208743.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 3" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 3
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208744.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 4" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 4
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208745.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 5" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 5
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208746.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 6" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 6
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208747.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 7" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 7
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208748.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 8" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 8
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208749.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 9" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 9
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208750.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 10" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 10
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208751.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 11" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 11
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208752.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 12" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 12
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208753.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 13" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 13
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208754.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 14" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 14
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208755.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 15" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 15
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208756.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 16" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 16
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208883.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 17" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 17
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208884.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 18" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 18
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208885.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 19" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 19
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208886.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 20" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 20
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208887.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 21" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 21
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305887.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 22" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 22
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305888.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 23" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 23
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305889.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 24" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 24
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305890.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 25" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 25
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305891.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 26" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 26
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305892.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 27" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 27
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305893.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 28" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 28
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305894.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 29" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 29
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305895.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 30" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 30
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305896.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 31" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 31
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305897.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 32" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 32
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305898.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 33" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 33
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305899.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 34" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 34
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305900.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 35" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 35
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305901.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 36" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 36
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305902.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 37" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 37
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305903.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 38" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 38
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305904.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 39" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 39
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 40" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",DAZN EVENTOS 40
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/305906.m3u
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 01 FHD (DAZN Y FEFTV)" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",EVENTOS 01 FHD (DAZN Y FEFTV)
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208837.m3u
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 02 FHD (DAZN Y FEFTV)" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",EVENTOS 02 FHD (DAZN Y FEFTV)
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208838.m3u
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 03 FHD (DAZN Y FEFTV)" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",EVENTOS 03 FHD (DAZN Y FEFTV)
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208839.m3u
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 04 FHD (DAZN Y FEFTV)" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",EVENTOS 04 FHD (DAZN Y FEFTV)
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208840.m3u
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 08 FHD (DAZN Y FEFTV)" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",EVENTOS 08 FHD (DAZN Y FEFTV)
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208841.m3u
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 09 FHD (DAZN Y FEFTV)" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",EVENTOS 09 FHD (DAZN Y FEFTV)
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208842.m3u
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 10 FHD (DAZN Y FEFTV)" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",EVENTOS 10 FHD (DAZN Y FEFTV)
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208843.m3u
+#EXTINF:-1 tvg-id="" tvg-name="EVENTOS 11 FHD (DAZN Y FEFTV)" tvg-logo="http://russia.za3za3.com:19745/dazn-hd-logo.png" group-title="DAZN | EVENTOS",EVENTOS 11 FHD (DAZN Y FEFTV)
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/208844.m3u
+
+
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="TELEMADRID FHD TDT" tvg-logo="" group-title="ESPAÑA | OCIO",TELEMADRID FHD TDT
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/331677.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TELEMADRID HD TDT" tvg-logo="https://diesl.com/wp-content/uploads/2011/11/telemadrid-logo.jpg" group-title="ESPAÑA | OCIO",TELEMADRID HD TDT
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/209573.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LA OTRA" tvg-logo="" group-title="ESPAÑA | OCIO",LA OTRA
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/209549.m3u
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 HORAS SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" group-title="ESPAÑA | NOTICIAS",24 HORAS SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/64356.m3u
+#EXTINF:-1 tvg-id="" tvg-name="INTERECONOMIA" tvg-logo="https://www.intereconomia.tv/wp-content/uploads/2017/09/intereconomiatv_logo_movil-2.png" group-title="ESPAÑA | AUTÓNOMICOS",INTERECONOMIA
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/44457.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TELEBILBAO" tvg-logo="https://www.karpinabentura.com/images/Karpin/imagenes_web_karpin/medios_amigos/logo_tbilbao.jpg" group-title="ESPAÑA | AUTÓNOMICOS",TELEBILBAO
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/44465.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ETB2 HD" tvg-logo="" group-title="ESPAÑA | AUTÓNOMICOS",ETB2 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/45419.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ETB1 HD" tvg-logo="" group-title="ESPAÑA | AUTÓNOMICOS",ETB1 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/45420.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ETB SAT CANAL VASCO" tvg-logo="" group-title="ESPAÑA | AUTÓNOMICOS",ETB SAT CANAL VASCO
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/45421.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TVG EUROPA" tvg-logo="" group-title="ESPAÑA | AUTÓNOMICOS",TVG EUROPA
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/45434.m3u
+#EXTINF:-1 tvg-id="TVG.2.es" tvg-name="TVG 2" tvg-logo="" group-title="ESPAÑA | AUTÓNOMICOS",TVG 2
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/111131.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CANAL EXTREMADURA" tvg-logo="" group-title="ESPAÑA | AUTÓNOMICOS",CANAL EXTREMADURA
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/45435.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TV 3 CAT HD" tvg-logo="" group-title="ESPAÑA | AUTÓNOMICOS",TV 3 CAT HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/79733.m3u
+#EXTINF:-1 tvg-id="" tvg-name="324" tvg-logo="" group-title="ESPAÑA | AUTÓNOMICOS",324
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/45446.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANCELOT TV" tvg-logo="" group-title="ESPAÑA | AUTÓNOMICOS",LANCELOT TV
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/45452.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV" tvg-logo="" group-title="ESPAÑA | AUTÓNOMICOS",ARAGON TV
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/45457.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CANAL MALAGA" tvg-logo="" group-title="ESPAÑA | AUTÓNOMICOS",CANAL MALAGA
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/45468.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CANAL CANARIAS" tvg-logo="" group-title="ESPAÑA | AUTÓNOMICOS",CANAL CANARIAS
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/113441.m3u
+#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="Canal Sur 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png" group-title="ESPAÑA | TDT 4K-HD",Canal Sur 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115934.m3u
+#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="Canal Sur HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png" group-title="ESPAÑA | TDT 4K-HD",Canal Sur HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115935.m3u
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" group-title="ESPAÑA | TDT 4K-HD",Mega HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116256.m3u
+#EXTINF:-1 tvg-id="Mega" tvg-name="Mega 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png" group-title="ESPAÑA | TDT 4K-HD",Mega 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115937.m3u
+#EXTINF:-1 tvg-id="Ten" tvg-name="TEN FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ten.png" group-title="ESPAÑA | TDT 4K-HD",TEN FHD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116255.m3u
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" group-title="ESPAÑA | TDT 4K-HD",XTRM 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115938.m3u
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" group-title="ESPAÑA | TDT 4K-HD",XTRM HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115939.m3u
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" group-title="ESPAÑA | TDT 4K-HD",XTRM SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115940.m3u
+#EXTINF:-1 tvg-id="Energy" tvg-name="Energy FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png" group-title="ESPAÑA | TDT 4K-HD",Energy FHD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115941.m3u
 #EXTINF:-1 tvg-id="Canal de las Estrellas" tvg-name="M+ Todo Chaplin FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCHAP.png" group-title="★ CINE ★",M+ Todo Chaplin FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/52411
-#EXTINF:-1 tvg-id="MTV Hits HD" tvg-name="M+ HITS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/250px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="★ SERIES ★",M+ HITS FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/89
-#EXTINF:-1 tvg-id="MTV Hits HD" tvg-name="M+ HITS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/250px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="★ SERIES ★",M+ HITS HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/90
-#EXTINF:-1 tvg-id="M+ Hits HD" tvg-name="M+ HITS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/250px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="★ SERIES ★",M+ HITS SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/91
-#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="★ CINE ★",AXN MOVIES FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/56
-#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="★ CINE ★",AXN MOVIES HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/57
-#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="★ CINE ★",AXN MOVIES SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/58
-#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="★ CINE ★",COSMO FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/59
-#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="★ CINE ★",COSMO HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/60
-#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" group-title="★ CINE ★",COSMO SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/61
-#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="★ CINE ★",SYFY FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/62
-#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="★ CINE ★",SYFY HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/63
-#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="★ CINE ★",SYFY SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/64
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="★ CINE ★",TCM FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/65
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="★ CINE ★",TCM HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/66
-#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="★ CINE ★",TCM SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/67
-#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="HOLLYWOOD FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="★ CINE ★",HOLLYWOOD FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/68
-#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="HOLLYWOOD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="★ CINE ★",HOLLYWOOD HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/69
-#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="HOLLYWOOD SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="★ CINE ★",HOLLYWOOD SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/70
-#EXTINF:-1 tvg-id="Sundance TV" tvg-name="SUNDANCE TV FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="★ CINE ★",SUNDANCE TV FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/71
-#EXTINF:-1 tvg-id="Sundance TV" tvg-name="SUNDANCE TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="★ CINE ★",SUNDANCE TV HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/72
-#EXTINF:-1 tvg-id="Sundance TV" tvg-name="SUNDANCE TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="★ CINE ★",SUNDANCE TV SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/73
-#EXTINF:-1 tvg-id="BOM Cine" tvg-name="BOM CINE FHD" tvg-logo="https://images2.imgbox.com/c0/d7/yqKiGVai_o.png" group-title="★ CINE ★",BOM CINE FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/74
-#EXTINF:-1 tvg-id="BOM Cine" tvg-name="BOM CINE HD" tvg-logo="https://images2.imgbox.com/c0/d7/yqKiGVai_o.png" group-title="★ CINE ★",BOM CINE HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/75
-#EXTINF:-1 tvg-id="BOM Cine" tvg-name="BOM CINE SD" tvg-logo="https://images2.imgbox.com/c0/d7/yqKiGVai_o.png" group-title="★ CINE ★",BOM CINE SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/76
-#EXTINF:-1 tvg-id="Paramount Network" tvg-name="PARAMOUNT CHANNEL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="★ CINE ★",PARAMOUNT CHANNEL FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/77
-#EXTINF:-1 tvg-id="Paramount Network" tvg-name="PARAMOUNT CHANNEL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="★ CINE ★",PARAMOUNT CHANNEL SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/78
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="★ SERIES ★",AMC SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/79
-#EXTINF:-1 tvg-id="Neox" tvg-name="NEOX FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="★ SERIES ★",NEOX FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/80
-#EXTINF:-1 tvg-id="Neox" tvg-name="NEOX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="★ SERIES ★",NEOX HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/81
-#EXTINF:-1 tvg-id="Neox" tvg-name="NEOX SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" group-title="★ SERIES ★",NEOX SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/82
-#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FACTORIA DE FICCION FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="★ SERIES ★",FACTORIA DE FICCION FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/83
-#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FACTORIA DE FICCION HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="★ SERIES ★",FACTORIA DE FICCION HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/84
-#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FDF SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" group-title="★ SERIES ★",FDF SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/85
-#EXTINF:-1 tvg-id="Energy" tvg-name="ENERGY FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" group-title="★ SERIES ★",ENERGY FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/86
-#EXTINF:-1 tvg-id="Energy" tvg-name="ENERGY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" group-title="★ SERIES ★",ENERGY HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/87
-#EXTINF:-1 tvg-id="Energy" tvg-name="ENERGY SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" group-title="★ SERIES ★",ENERGY SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/88
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="★ SERIES ★",AMC FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/92
-#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="★ SERIES ★",AMC HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/93
-#EXTINF:-1 tvg-id="STAR Channel HD" tvg-name="STAR Channel FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="★ SERIES ★",STAR Channel FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/94
-#EXTINF:-1 tvg-id="STAR Channel HD" tvg-name="STAR Channel HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="★ SERIES ★",STAR Channel HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/95
-#EXTINF:-1 tvg-id="STAR Channel HD" tvg-name="STAR Channel SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="★ SERIES ★",STAR Channel SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/96
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" group-title="★ SERIES ★",AXN FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/97
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" group-title="★ SERIES ★",AXN HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/98
-#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" group-title="★ SERIES ★",AXN SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/99
-#EXTINF:-1 tvg-id="BBC Drama" tvg-name="BBC DRAMA FHD" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="★ CINE ★",BBC DRAMA FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/52399
-#EXTINF:-1 tvg-id="BBC Drama" tvg-name="BBC DRAMA HD" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="★ CINE ★",BBC DRAMA HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/52400
-#EXTINF:-1 tvg-id="BBC Drama" tvg-name="BBC DRAMA SD" tvg-logo="https://origen-web.dof6.com/recorte/m-NEO/canal/BBDRA.png" group-title="★ CINE ★",BBC DRAMA SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/52401
-#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER TV FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="★ SERIES ★",WARNER TV FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/100
-#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="★ SERIES ★",WARNER TV HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/101
-#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="★ SERIES ★",WARNER TV SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/102
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="★ SERIES ★",COMEDY CENTRAL FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/103
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="★ SERIES ★",COMEDY CENTRAL HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/104
-#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="★ SERIES ★",COMEDY CENTRAL SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/105
-#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="CALLE 13 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="★ SERIES ★",CALLE 13 FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/106
-#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="CALLE 13 HD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="★ SERIES ★",CALLE 13 HD 
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/107
-#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="CALLE 13 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="★ SERIES ★",CALLE 13 SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/108
-#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3SERIES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" group-title="★ ENTRETENIMIENTO ★",A3SERIES FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/109
-#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3SERIES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" group-title="★ ENTRETENIMIENTO ★",A3SERIES HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/110
-#EXTINF:-1 tvg-id="Atreseries" tvg-name="A3SERIES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" group-title="★ ENTRETENIMIENTO ★",A3SERIES SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/111
-#EXTINF:-1 tvg-id="Divinity" tvg-name="DIVINITY FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="★ ENTRETENIMIENTO ★",DIVINITY FHD 
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/112
-#EXTINF:-1 tvg-id="Divinity" tvg-name="DIVINITY HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="★ ENTRETENIMIENTO ★",DIVINITY HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/113
-#EXTINF:-1 tvg-id="Divinity" tvg-name="DIVINITY SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" group-title="★ ENTRETENIMIENTO ★",DIVINITY SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/114
-#EXTINF:-1 tvg-id="Ten" tvg-name="TEN FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png" group-title="★ ENTRETENIMIENTO ★",TEN FHD 
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/115
-#EXTINF:-1 tvg-id="Ten" tvg-name="TEN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png" group-title="★ ENTRETENIMIENTO ★",TEN HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/116
-#EXTINF:-1 tvg-id="Ten" tvg-name="TEN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png" group-title="★ ENTRETENIMIENTO ★",TEN SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/117
-#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS FHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/1280px-DKiss.svg.png" group-title="★ ENTRETENIMIENTO ★",DKISS FHD 
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/118
-#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/1280px-DKiss.svg.png" group-title="★ ENTRETENIMIENTO ★",DKISS HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/119
-#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/1280px-DKiss.svg.png" group-title="★ ENTRETENIMIENTO ★",DKISS SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/120
-#EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC BREAK FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="★ ENTRETENIMIENTO ★",AMC BREAK FHD 
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/121
-#EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC BREAK HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="★ ENTRETENIMIENTO ★",AMC BREAK HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/122
-#EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC BREAK SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="★ ENTRETENIMIENTO ★",AMC BREAK SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/123
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME FHD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="★ ENTRETENIMIENTO ★",AMC CRIME FHD 
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/124
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="★ ENTRETENIMIENTO ★",AMC CRIME
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/125
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC CRIME SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="★ ENTRETENIMIENTO ★",AMC CRIME SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/126
-#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="★ ESTILO DE VIDA ★",MEGA FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/147
-#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="★ ESTILO DE VIDA ★",MEGA HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/148
-#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" group-title="★ ESTILO DE VIDA ★",MEGA SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/149
-#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="★ ESTILO DE VIDA ★",NOVA FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/150
-#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="★ ESTILO DE VIDA ★",NOVA HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/151
-#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" group-title="★ ESTILO DE VIDA ★",NOVA SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/152
-#EXTINF:-1 tvg-id="Be Mad" tvg-name="BEMAD FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="★ ESTILO DE VIDA ★",BEMAD FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/153
-#EXTINF:-1 tvg-id="Be Mad" tvg-name="BEMAD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="★ ESTILO DE VIDA ★",BEMAD HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/154
-#EXTINF:-1 tvg-id="Be Mad" tvg-name="BEMAD SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" group-title="★ ESTILO DE VIDA ★",BEMAD SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/155
-#EXTINF:-1 tvg-id="DARK" tvg-name="DARK FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="★ CINE ★",DARK FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/169
-#EXTINF:-1 tvg-id="DARK" tvg-name="DARK HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="★ CINE ★",DARK HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/170
-#EXTINF:-1 tvg-id="DARK" tvg-name="DARK SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="★ CINE ★",DARK SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/171
-#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="★ CINE ★",XTRM FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/172
-#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="★ CINE ★",XTRM HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/173
-#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="★ CINE ★",XTRM SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/174
-#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="★ CINE ★",SOMOS FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/175
-#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="★ CINE ★",SOMOS HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/176
-#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="★ CINE ★",SOMOS SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/177
-#EXTINF:-1 tvg-id="Max Avances" tvg-name="Max Avances FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MAXAVA.png" group-title="★ DOCUMENTALES ★",Max Avances FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/103039
-#EXTINF:-1 tvg-id="Max Avances" tvg-name="Max Avances HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MAXAVA.png" group-title="★ DOCUMENTALES ★",Max Avances HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/103040
-#EXTINF:-1 tvg-id="Max Avances" tvg-name="Max Avances SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MAXAVA.png" group-title="★ DOCUMENTALES ★",Max Avances SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/103041
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="★ DOCUMENTALES ★",NATIONAL GEOGRAPHIC FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/178
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="★ DOCUMENTALES ★",NATIONAL GEOGRAPHIC HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/179
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="★ DOCUMENTALES ★",NATIONAL GEOGRAPHIC SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/180
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="★ DOCUMENTALES ★",NAT GEO WILD FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/181
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="★ DOCUMENTALES ★",NAT GEO WILD HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/182
-#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NAT GEO WILD SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="★ DOCUMENTALES ★",NAT GEO WILD SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/183
-#EXTINF:-1 tvg-id="Historia" tvg-name="HISTORIA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="★ DOCUMENTALES ★",HISTORIA FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/184
-#EXTINF:-1 tvg-id="Historia" tvg-name="HISTORIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="★ DOCUMENTALES ★",HISTORIA HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/185
-#EXTINF:-1 tvg-id="Historia" tvg-name="HISTORIA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="★ DOCUMENTALES ★",HISTORIA SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/186
-#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="★ DOCUMENTALES ★",DISCOVERY CHANNEL FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/187
-#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="★ DOCUMENTALES ★",DISCOVERY CHANNEL HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/188
-#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="★ DOCUMENTALES ★",DISCOVERY CHANNEL SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/189
-#EXTINF:-1 tvg-id="Odisea" tvg-name="ODISEA UHD 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="★ DOCUMENTALES ★",ODISEA UHD 4K
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/190
-#EXTINF:-1 tvg-id="Odisea" tvg-name="ODISEA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="★ DOCUMENTALES ★",ODISEA FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/191
-#EXTINF:-1 tvg-id="Odisea" tvg-name="ODISEA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="★ DOCUMENTALES ★",ODISEA HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/192
-#EXTINF:-1 tvg-id="Odisea" tvg-name="ODISEA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="★ DOCUMENTALES ★",ODISEA SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/193
-#EXTINF:-1 tvg-id="SELEKT" tvg-name="AMC Selekt TV HD" tvg-logo="https://amcselekt.es/static/img/tuamc/og_logo.png" group-title="★ DOCUMENTALES ★",AMC Selekt TV HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/194
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="★ DOCUMENTALES ★",DMAX FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/195
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="★ DOCUMENTALES ★",DMAX HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/196
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="★ DOCUMENTALES ★",DMAX SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/197
-#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="M+ DOCUMENTALES FHD" tvg-logo="https://images2.imgbox.com/4e/af/p5jK0hT0_o.png" group-title="★ DOCUMENTALES ★",M+ DOCUMENTALES FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/212
-#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="M+ DOCUMENTALES HD" tvg-logo="https://images2.imgbox.com/4e/af/p5jK0hT0_o.png" group-title="★ DOCUMENTALES ★",M+ DOCUMENTALES HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/213
-#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="M+ DOCUMENTALES SD" tvg-logo="https://images2.imgbox.com/4e/af/p5jK0hT0_o.png" group-title="★ DOCUMENTALES ★",M+ DOCUMENTALES SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/214
-#EXTINF:-1 tvg-id="324" tvg-name="TV Galicia HD 1080P" tvg-logo="https://www.pikpng.com/pngl/m/409-4090184_tvg-logo-870x957-televisin-de-galicia-clipart.png" group-title="★ AUTONÓMICOS ★",TV Galicia HD 1080P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/242
-#EXTINF:-1 tvg-id="UBEAT" tvg-name="U-BEAT HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/UBEAT.png" group-title="★ AUTONÓMICOS ★",U-BEAT HD 1080P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/244
-#EXTINF:-1 tvg-id="ETB2" tvg-name="ETB 2 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ETB2.png" group-title="★ AUTONÓMICOS ★",ETB 2 HD 720P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/246
-#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="CANAL SUR FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Canal_Sur_1_-_2017_logo.png/600px-Canal_Sur_1_-_2017_logo.png" group-title="★ AUTONÓMICOS ★",CANAL SUR FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/247
-#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-name="CANAL SUR ANDALUCIA SD" tvg-logo="https://images2.imgbox.com/3f/ac/b5mRaurP_o.png" group-title="★ AUTONÓMICOS ★",CANAL SUR ANDALUCIA SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/248
-#EXTINF:-1 tvg-id="Canal Sur 2" tvg-name="CANAL SUR ANDALUCIA 2 HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/1200px-Canal_Sur_2_-_2017_logo.png" group-title="★ AUTONÓMICOS ★",CANAL SUR ANDALUCIA 2 HD 720P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/249
-#EXTINF:-1 tvg-id="Aragón TV Internacional" tvg-name="ARAGON TV INT HD 1080P" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png" group-title="★ AUTONÓMICOS ★",ARAGON TV INT HD 1080P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/250
-#EXTINF:-1 tvg-id="Aragón TV Internacional" tvg-name="ARAGON TV INT SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png" group-title="★ AUTONÓMICOS ★",ARAGON TV INT SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/251
-#EXTINF:-1 tvg-id="Cubavisión Internacional HD" tvg-name="CUBAVISION SD" tvg-logo="" group-title="★ AUTONÓMICOS ★",CUBAVISION SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/252
-#EXTINF:-1 tvg-id="Canal Extremadura SAT" tvg-name="EXTREMADURA SAT HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/EXTREM.png" group-title="★ AUTONÓMICOS ★",EXTREMADURA SAT HD 1080P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/254
-#EXTINF:-1 tvg-id="Telemadrid" tvg-name="TELE MADRID HD 1080P" tvg-logo="https://images2.imgbox.com/2d/68/jetIIWHy_o.png" group-title="★ AUTONÓMICOS ★",TELE MADRID HD 1080P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/255
-#EXTINF:-1 tvg-id="Telemadrid" tvg-name="TELE MADRID HD 720P" tvg-logo="https://images2.imgbox.com/2d/68/jetIIWHy_o.png" group-title="★ AUTONÓMICOS ★",TELE MADRID HD 720P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/256
-#EXTINF:-1 tvg-id="Telemadrid" tvg-name="TELE MADRID SD" tvg-logo="https://images2.imgbox.com/2d/68/jetIIWHy_o.png" group-title="★ AUTONÓMICOS ★",TELE MADRID SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/257
-#EXTINF:-1 tvg-id="La Otra" tvg-name="LA OTRA HD 1080P" tvg-logo="" group-title="★ AUTONÓMICOS ★",LA OTRA HD 1080P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/258
-#EXTINF:-1 tvg-id="La Otra" tvg-name="LA OTRA HD 720P" tvg-logo="" group-title="★ AUTONÓMICOS ★",LA OTRA HD 720P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/259
-#EXTINF:-1 tvg-id="La Otra" tvg-name="LA OTRA SD" tvg-logo="" group-title="★ AUTONÓMICOS ★",LA OTRA SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/260
-#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE TV HD 1080P" tvg-logo="" group-title="★ AUTONÓMICOS ★",TRECE TV HD 1080P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/261
-#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE TV HD 720P" tvg-logo="" group-title="★ AUTONÓMICOS ★",TRECE TV HD 720P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/262
-#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE TV SD" tvg-logo="" group-title="★ AUTONÓMICOS ★",TRECE TV SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/263
-#EXTINF:-1 tvg-id="TV3 Catalunya" tvg-name="TV3 CATALUÑA HD  1080P" tvg-logo="" group-title="★ AUTONÓMICOS ★",TV3 CATALUÑA HD  1080P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/264
-#EXTINF:-1 tvg-id="TV3 Catalunya" tvg-name="TV3 CATALUÑA HD 720P" tvg-logo="" group-title="★ AUTONÓMICOS ★",TV3 CATALUÑA HD 720P
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/265
-#EXTINF:-1 tvg-id="TV3 Catalunya" tvg-name="TV3 CATALUÑA SD" tvg-logo="" group-title="★ AUTONÓMICOS ★",TV3 CATALUÑA SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/266
-#EXTINF:-1 tvg-id="CMM TV" tvg-name="CMM TV FHD" tvg-logo="" group-title="★ AUTONÓMICOS ★",CMM TV FHD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/267
-#EXTINF:-1 tvg-id="" tvg-name="CMM TV HD" tvg-logo="" group-title="★ AUTONÓMICOS ★",CMM TV HD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/268
-#EXTINF:-1 tvg-id="CMM TV" tvg-name="CMM TV SD" tvg-logo="" group-title="★ AUTONÓMICOS ★",CMM TV SD
-http://spaniptv.giize.com:8080/HermanaL/jLbqOADmN1/269
+http://spaniptv.giize.com:8080/mamamari/7WheafpLQnRF/52411
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="Hollywood 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" group-title="ESPAÑA | TDT 4K-HD",Hollywood 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115942.m3u
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="Hollywood HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" group-title="ESPAÑA | TDT 4K-HD",Hollywood HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115943.m3u
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="Hollywood SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" group-title="ESPAÑA | TDT 4K-HD",Hollywood SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115944.m3u
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="Sundance 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png" group-title="ESPAÑA | TDT 4K-HD",Sundance 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115945.m3u
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="Sundance HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png" group-title="ESPAÑA | TDT 4K-HD",Sundance HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115946.m3u
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="Sundance SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png" group-title="ESPAÑA | TDT 4K-HD",Sundance SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115947.m3u
+#EXTINF:-1 tvg-id="DARK" tvg-name="DARK FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" group-title="ESPAÑA | TDT 4K-HD",DARK FHD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115948.m3u
+#EXTINF:-1 tvg-id="Canal Extremadura SAT" tvg-name="Canal Extremadura Sat" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura.png" group-title="ESPAÑA | TDT 4K-HD",Canal Extremadura Sat
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115949.m3u
+#EXTINF:-1 tvg-id="Somos" tvg-name="Somos FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png" group-title="ESPAÑA | TDT 4K-HD",Somos FHD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115950.m3u
+#EXTINF:-1 tvg-id="Nova" tvg-name="Nova FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="ESPAÑA | TDT 4K-HD",Nova FHD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115951.m3u
+#EXTINF:-1 tvg-id="Be Mad" tvg-name="BEMAD FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Be%20Mad.png" group-title="ESPAÑA | TDT 4K-HD",BEMAD FHD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115952.m3u
+#EXTINF:-1 tvg-id="Be Mad" tvg-name="BEMAD SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Be%20Mad.png" group-title="ESPAÑA | TDT 4K-HD",BEMAD SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115953.m3u
+#EXTINF:-1 tvg-id="Divinity" tvg-name="Divinity FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" group-title="ESPAÑA | TDT 4K-HD",Divinity FHD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115954.m3u
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FDF FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png" group-title="ESPAÑA | TDT 4K-HD",FDF FHD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115967.m3u
+#EXTINF:-1 tvg-id="Neox" tvg-name="Neox HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="ESPAÑA | TDT 4K-HD",Neox HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115968.m3u
+#EXTINF:-1 tvg-id="Neox" tvg-name="Neox SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="ESPAÑA | TDT 4K-HD",Neox SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115969.m3u
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="Atreseries HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atreseries.png" group-title="ESPAÑA | TDT 4K-HD",Atreseries HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115970.m3u
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="Atreseries SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atreseries.png" group-title="ESPAÑA | TDT 4K-HD",Atreseries SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115971.m3u
+#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE TV FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRECE.png" group-title="ESPAÑA | TDT 4K-HD",TRECE TV FHD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115972.m3u
+#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE TV SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRECE.png" group-title="ESPAÑA | TDT 4K-HD",TRECE TV SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115973.m3u
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DKISS.png" group-title="ESPAÑA | DOCUMENTALES",DKISS
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115974.m3u
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 Horas 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" group-title="ESPAÑA | TDT 4K-HD",24 Horas 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115975.m3u
+#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-name="Canal Sur Andalucia" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png" group-title="ESPAÑA | TDT 4K-HD",Canal Sur Andalucia
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115980.m3u
+#EXTINF:-1 tvg-id="TV3CAT Catalunya" tvg-name="TV3 Cat 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3%20Catalunya.png" group-title="ESPAÑA | TDT 4K-HD",TV3 Cat 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115981.m3u
+#EXTINF:-1 tvg-id="TV3CAT Catalunya" tvg-name="TV3 Cat HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3%20Catalunya.png" group-title="ESPAÑA | TDT 4K-HD",TV3 Cat HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115982.m3u
+#EXTINF:-1 tvg-id="ETB1" tvg-name="ETB 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB1.png" group-title="ESPAÑA | TDT 4K-HD",ETB 1 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115987.m3u
+#EXTINF:-1 tvg-id="TVG" tvg-name="TVG HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG.png" group-title="ESPAÑA | TDT 4K-HD",TVG HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115989.m3u
+#EXTINF:-1 tvg-id="TVG" tvg-name="TVG SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG.png" group-title="ESPAÑA | TDT 4K-HD",TVG SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115990.m3u
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3.png" group-title="ESPAÑA | TDT 4K-HD",TV3 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115991.m3u
+#EXTINF:-1 tvg-id="CMM TV" tvg-name="CASTILLA LA MANCHA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png" group-title="ESPAÑA | TDT 4K-HD",CASTILLA LA MANCHA
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/12650.m3u
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="Indie por M+ 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Indie por M+ 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/118863.m3u
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="Indie por M+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Indie por M+ HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/118876.m3u
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="Indie por M+ SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Indie por M+ SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/118877.m3u
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="Originales por M+ 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Originales por M+ 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/118865.m3u
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="Originales por M+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Originales por M+ HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/118907.m3u
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="Originales por M+ SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Originales por M+ SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/118908.m3u
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="M+ Accion 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Accion 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115999.m3u
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="M+ Accion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Accion HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116000.m3u
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="M+ Accion SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Accion SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116001.m3u
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="M+ Comedia 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Comedia 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116002.m3u
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="M+ Comedia HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Comedia HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116003.m3u
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="M+ Comedia SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Comedia SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116004.m3u
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M+ Drama 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Drama 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116005.m3u
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M+ Drama HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Drama HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116006.m3u
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M+ Drama SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Drama SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116007.m3u
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="M+ Series 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Series.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Series 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116008.m3u
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="M+ Series HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Series.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Series HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116009.m3u
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="M+ Series SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Series.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Series SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116010.m3u
+#EXTINF:-1 tvg-id="M+ Todo Chaplin" tvg-name="M+ Todo Chaplin 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Todo%20Chaplin.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Todo Chaplin 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/332203.m3u
+#EXTINF:-1 tvg-id="M+ Cine HD" tvg-name="M+ CIne 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ CIne 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116014.m3u
+#EXTINF:-1 tvg-id="M+ Cine HD" tvg-name="M+ CIne HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ CIne HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116015.m3u
+#EXTINF:-1 tvg-id="M+ Cine HD" tvg-name="M+ CIne SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ CIne SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116016.m3u
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ Cine Espanol 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Cine Espanol 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116025.m3u
+#EXTINF:-1 tvg-id="M+ Cine HD" tvg-name="M+ Cine Espanol HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Cine Espanol HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116026.m3u
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M+ Cine Espanol SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Cine Espanol SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116027.m3u
+#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="M+ Clasicos 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Clasicos 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116028.m3u
+#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="M+ Clasicos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Clasicos HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116029.m3u
+#EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="M+ Clasicos SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ Clasicos SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116030.m3u
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" group-title="ESPAÑA | MOVISTAR 4K-HD",AXN 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116031.m3u
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" group-title="ESPAÑA | MOVISTAR 4K-HD",AXN SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116033.m3u
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIES 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" group-title="ESPAÑA | MOVISTAR 4K-HD",AXN MOVIES 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/210426.m3u
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIES SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" group-title="ESPAÑA | MOVISTAR 4K-HD",AXN MOVIES SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/210428.m3u
+#EXTINF:-1 tvg-id="STAR Channel HD" tvg-name="STAR CHANNEL 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" group-title="ESPAÑA | MOVISTAR 4K-HD",STAR CHANNEL 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116037.m3u
+#EXTINF:-1 tvg-id="STAR Channel HD" tvg-name="STAR CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" group-title="ESPAÑA | MOVISTAR 4K-HD",STAR CHANNEL HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116038.m3u
+#EXTINF:-1 tvg-id="STAR Channel HD" tvg-name="STAR CHANNEL SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" group-title="ESPAÑA | MOVISTAR 4K-HD",STAR CHANNEL SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116039.m3u
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="Calle 13 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Calle 13 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116040.m3u
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="Calle 13 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Calle 13 HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116041.m3u
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="Calle 13 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Calle 13 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116042.m3u
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" group-title="ESPAÑA | MOVISTAR 4K-HD",AMC 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116043.m3u
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png" group-title="ESPAÑA | MOVISTAR 4K-HD",AMC SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116045.m3u
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC Break 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" group-title="ESPAÑA | MOVISTAR 4K-HD",AMC Break 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116046.m3u
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="AMC Break SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" group-title="ESPAÑA | MOVISTAR 4K-HD",AMC Break SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116048.m3u
+#EXTINF:-1 tvg-id="SELEKT" tvg-name="AMC SELEKT 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png" group-title="ESPAÑA | MOVISTAR 4K-HD",AMC SELEKT 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/118692.m3u
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png" group-title="ESPAÑA | MOVISTAR 4K-HD",SYFY HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116050.m3u
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png" group-title="ESPAÑA | MOVISTAR 4K-HD",SYFY SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116051.m3u
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png" group-title="ESPAÑA | MOVISTAR 4K-HD",TCM 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116052.m3u
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM.png" group-title="ESPAÑA | MOVISTAR 4K-HD",TCM SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116054.m3u
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png" group-title="ESPAÑA | MOVISTAR 4K-HD",COSMO 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116055.m3u
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png" group-title="ESPAÑA | MOVISTAR 4K-HD",COSMO HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116056.m3u
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png" group-title="ESPAÑA | MOVISTAR 4K-HD",COSMO SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116057.m3u
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Comedy Central 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116058.m3u
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Comedy Central HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116059.m3u
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Comedy Central SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116060.m3u
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Channel" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Paramount%20Network.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Paramount Channel
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116061.m3u
+#EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="La Resistencia HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Resistencia%2024H.png" group-title="ESPAÑA | MOVISTAR 4K-HD",La Resistencia HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116062.m3u
+#EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="La Resistencia SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Resistencia%2024H.png" group-title="ESPAÑA | MOVISTAR 4K-HD",La Resistencia SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116063.m3u
+#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SkyShowtime 1 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png" group-title="ESPAÑA | MOVISTAR 4K-HD",SkyShowtime 1 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/204177.m3u
+#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="SkyShowtime 1 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png" group-title="ESPAÑA | MOVISTAR 4K-HD",SkyShowtime 1 SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/204179.m3u
+#EXTINF:-1 tvg-id="Max Avances" tvg-name="Max Avances 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Max%20Avances.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Max Avances 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/209611.m3u
+#EXTINF:-1 tvg-id="Max Avances" tvg-name="Max Avances HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Max%20Avances.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Max Avances HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/209612.m3u
+#EXTINF:-1 tvg-id="Max Avances" tvg-name="Max Avances SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Max%20Avances.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Max Avances SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/209613.m3u
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="Documentales por M+ 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" group-title="ESPAÑA | DOCUMENTALES",Documentales por M+ 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/118861.m3u
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="Documentales por M+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" group-title="ESPAÑA | DOCUMENTALES",Documentales por M+ HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/118909.m3u
+#EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="Documentales por M+ SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" group-title="ESPAÑA | DOCUMENTALES",Documentales por M+ SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/118910.m3u
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png" group-title="ESPAÑA | DOCUMENTALES",National Geographic 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116066.m3u
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png" group-title="ESPAÑA | DOCUMENTALES",National Geographic HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116067.m3u
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic.png" group-title="ESPAÑA | DOCUMENTALES",National Geographic SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116068.m3u
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" group-title="ESPAÑA | DOCUMENTALES",Nat Geo Wild 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116069.m3u
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" group-title="ESPAÑA | DOCUMENTALES",Nat Geo Wild HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116070.m3u
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild.png" group-title="ESPAÑA | DOCUMENTALES",Nat Geo Wild SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116071.m3u
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="AMC Crime FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" group-title="ESPAÑA | DOCUMENTALES",AMC Crime FHD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116049.m3u
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" group-title="ESPAÑA | DOCUMENTALES",Discovery HD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115962.m3u
+#EXTINF:-1 tvg-id="Odisea" tvg-name="Odisea FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" group-title="ESPAÑA | DOCUMENTALES",Odisea FHD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115961.m3u
+#EXTINF:-1 tvg-id="Historia" tvg-name="Historia 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="ESPAÑA | DOCUMENTALES",Historia 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115963.m3u
+#EXTINF:-1 tvg-id="Historia" tvg-name="Historia SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="ESPAÑA | DOCUMENTALES",Historia SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/115965.m3u
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER BROS 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" group-title="ESPAÑA | MOVISTAR 4K-HD",WARNER BROS 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116075.m3u
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER BROS SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" group-title="ESPAÑA | MOVISTAR 4K-HD",WARNER BROS SD
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/116077.m3u
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DMAX.png" group-title="ESPAÑA | DOCUMENTALES",DMAX 4K
+http://sa25.dyndnsdot.ovh:2095/live/iptvsd3004/3004dazent/118575.m3u
