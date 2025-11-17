@@ -11,6 +11,8 @@ http://pgeffordgef.top:8080/781675522605752066/71695741276248/5588
 http://pgeffordgef.top:8080/781675522605752066/71695741276248/5734
 #EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES: LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ES | GENERAL",ES: LA SEXTA
 http://pgeffordgef.top:8080/781675522605752066/71695741276248/5625
+#EXTINF:-1 tvg-id="ES: Directes-tv-es.3catdirectes.cat"tvg-name="ES: Directes-tv-es.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/2560px-Esport3.svg.png" group-title="ES | TOP CANALES VIP",ES: Directes tv 3cat
+https://directes-tv-es.3catdirectes.cat/live-content/esport3-hls/master.m3u8?maxres=1080
 #EXTINF:-1 tvg-id="0" tvg-name="ES: CAZA Y PESCA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/CAZHD.png" group-title="ES | CULTURA",ES: CAZA Y PESCA
 http://pgeffordgef.top:8080/781675522605752066/71695741276248/5578
 #EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA 100% CAZA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Iberalia_TV.png" group-title="ES | CULTURA",ES: IBERALIA 100% CAZA
