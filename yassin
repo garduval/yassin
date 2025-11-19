@@ -151,6 +151,8 @@ http://pgeffordgef.top:8080/781675522605752066/71695741276248/5617
 http://pgeffordgef.top:8080/781675522605752066/71695741276248/5649
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ GOLF 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png" group-title="ES | DEPORTES",ES: M+ GOLF 2
 http://pgeffordgef.top:8080/781675522605752066/71695741276248/57256
+#EXTINF:-1 tvg-id="Esport 3"tvg-name="Esport 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/2560px-Esport3.svg.png" group-title="TDT VIP",Esport 3 HD
+http://185.157.184.12:6001/play/Esport3HD
 #EXTINF:-1 tvg-id="" tvg-name="ES: ESPN DEPORTES" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESPN_DEPORTES.png" group-title="ES | DEPORTES",ES: ESPN DEPORTES
 http://pgeffordgef.top:8080/781675522605752066/71695741276248/5605
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA",ARG: ESPN
@@ -161,8 +163,6 @@ http://pgeffordgef.top:8080/781675522605752066/71695741276248/10009
 http://pgeffordgef.top:8080/781675522605752066/71695741276248/10010
 #EXTINF:-1 tvg-id="" tvg-name="ARG: ESPN+" tvg-logo="https://docdog.top/logo/countries//argentina/espn-ar.png" group-title="LAME | ARGENTINA",ARG: ESPN+
 http://pgeffordgef.top:8080/781675522605752066/71695741276248/10012
-#EXTINF:-1 tvg-id="" tvg-name="ARG: EUROPA" tvg-logo="https://docdog.top/logo/countries//argentina/europa-europa-ar.png" group-title="LAME | ARGENTINA",ARG: EUROPA
-http://pgeffordgef.top:8080/781675522605752066/71695741276248/10013
 #EXTINF:-1 tvg-id="" tvg-name="ES: RALLY TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/RallyTv.png" group-title="ES | DEPORTES",ES: RALLY TV
 http://pgeffordgef.top:8080/781675522605752066/71695741276248/58325
 #EXTINF:-1 tvg-id="" tvg-name="CH1" tvg-logo="" group-title="PPV",CH1
@@ -623,17 +623,4 @@ http://pgeffordgef.top:8080/781675522605752066/71695741276248/57728
 http://pgeffordgef.top:8080/781675522605752066/71695741276248/57729
 #EXTINF:-1 tvg-id="" tvg-name="AL: SUPER SPORTS NEWS" tvg-logo="https://docdog.top/logo/countries/albania/supersportnews.png" group-title="EURO | ALBANIA",AL: SUPER SPORTS NEWS
 http://pgeffordgef.top:8080/781675522605752066/71695741276248/57730
-#EXTINF:-1 tvg-id="" tvg-name="UK: DISNEY+" tvg-logo="" group-title="UK VIP NEW",UK: DISNEY+
-http://vipboacnn.top:8080/VIP018181729432665113/6b72b9d29939/146742
-#EXTINF:-1 tvg-id="" tvg-name="PE: MOVISTAR DEPORTES" tvg-logo="https://docdog.top/logo/countries/peru/movistardeportes.png" group-title="LAME | PERU",PE: MOVISTAR DEPORTES
-http://pgeffordgef.top:8080/781675522605752066/71695741276248/10789
-#EXTINF:-1 tvg-id="" tvg-name="PE: MOVISTAR PLUS TV" tvg-logo="https://docdog.top/logo/countries/peru/MOVISTARPLUSTV.png" group-title="LAME | PERU",PE: MOVISTAR PLUS TV
-http://pgeffordgef.top:8080/781675522605752066/71695741276248/10790
-#EXTINF:-1 tvg-id="" tvg-name="PE: DIRECTV SPORTS" tvg-logo="" group-title="LAME | PERU",PE: DIRECTV SPORTS
-http://pgeffordgef.top:8080/781675522605752066/71695741276248/58713
-#EXTINF:-1 tvg-id="" tvg-name="LA: DIRECT SPORTS+" tvg-logo="https://docdog.top/logo/countries/latino/DIRECTSPORTS+.png" group-title="LAME | LATINO",LA: DIRECT SPORTS+
-http://pgeffordgef.top:8080/781675522605752066/71695741276248/18393
-#EXTINF:-1 tvg-id="" tvg-name="CL: DIRECTV SPORTS" tvg-logo="https://docdog.top/logo/countries/chile/directvsports.png" group-title="LAME | CHILE",CL: DIRECTV SPORTS
-http://pgeffordgef.top:8080/781675522605752066/71695741276248/18749
-#EXTINF:-1 tvg-id="" tvg-name="CL: DirecTV Sports 2 VIP [Live During Events Only]" tvg-logo="" group-title="LAME | CHILE",CL: DirecTV Sports 2 VIP [Live During Events Only]
-http://pgeffordgef.top:8080/781675522605752066/71695741276248/58866
+
