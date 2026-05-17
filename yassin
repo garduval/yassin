@@ -391,8 +391,6 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/792705
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/808149
 #EXTINF:-1 tvg-id="" tvg-name="USA NETWORK **" tvg-logo="" group-title="USA News",USA NETWORK **
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/808150
-#EXTINF:-1 tvg-id="" tvg-name="SSC SPORTS 7 HEVC" tvg-logo="http://channelstv.online:8080/images/02f91b51c079c0f62fbdf8b528892772.png" group-title="LIGA ARABE",SSC SPORTS 7 HEVC
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/447821
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 COLOMBIA" tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV",DIRECTV SPORTS 2 COLOMBIA
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/811804
 #EXTINF:-1 tvg-id="DAZN Baloncesto 2" tvg-name="ACB | Evento 02" tvg-logo="https://www.unicajabaloncesto.com/Documentos/Fotos/4/7/6/9/476905_1011.jpg" group-title="LIGA ACB",ACB | Evento 02
@@ -421,8 +419,6 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/815954
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/815955
 #EXTINF:-1 tvg-id="" tvg-name="SERIE A 1 (EVENTOS)" tvg-logo="https://pbs.twimg.com/profile_images/1861373819815890944/HWbgwMCn_400x400.jpg" group-title="DEPORTE EUROPEO",SERIE A 1 (EVENTOS)
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/815957
-#EXTINF:-1 tvg-id="" tvg-name="Entrevista de Edu Aguirre a Cristiano Ronaldo" tvg-logo="https://fotografias.lasexta.com/clipping/cmsimages01/2016/04/10/DE93D1F7-F239-4552-AC02-C8E447965DF9/69.jpg?crop=1920,1080,x0,y0&width=1280&height=720&optimize=low&format=jpg" group-title="DEPORTES",Entrevista de Edu Aguirre a Cristiano Ronaldo
-http://intelcarlos.xyz:8080/movie/MURPHY10/XPHVR/770874.mp4
 #EXTINF:-1 tvg-id="PT | Sport TV 2" tvg-name="PT: Sport TV 2" tvg-logo="https://images.seeklogo.com/logo-png/50/1/sport-tv2-2023-logo-png_seeklogo-504105.png" group-title="PORTUGAL",PT: Sport TV 2
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/1029317
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="ESP | M+ LA LIGA SD**" tvg-logo="https://i.imgur.com/0VDZ93U.png" group-title="LA LIGA ESPAÑA",ESP | M+ LA LIGA SD**
@@ -629,8 +625,6 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/454343
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/67541
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="ESP | SERIESMANIA HD" tvg-logo="http://visualservice.xyz:80/images/b3b9bfbe8c823c7b268d685ad9fa3919.png" group-title="PREMIUM ESPAÑA ",ESP | SERIESMANIA HD
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/67555
-#EXTINF:-1 tvg-id="" tvg-name="ESP | NICKELODEON  HD" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="PREMIUM ESPAÑA ",ESP | NICKELODEON  HD
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/55850
 #EXTINF:-1 tvg-id="" tvg-name="ESP | AXN WHITE HD" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="PREMIUM ESPAÑA ",ESP | AXN WHITE HD
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/55853
 #EXTINF:-1 tvg-id="" tvg-name="AXN MOVIE FHD" tvg-logo="https://i.imgur.com/let75vk.png" group-title="PREMIUM ESPAÑA ",AXN MOVIE FHD
@@ -651,10 +645,6 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/55858
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/55859
 #EXTINF:-1 tvg-id="" tvg-name="ESP | DISCOVERY CHANNEL" tvg-logo="http://visualservice.xyz:80/images/b59c032c79b7d1613a2e6814ca8a24c0.png" group-title="PREMIUM ESPAÑA ",ESP | DISCOVERY CHANNEL
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/55860
-#EXTINF:-1 tvg-id="" tvg-name="ESP | MEZZO LIVE" tvg-logo="https://static.epg.best/es/Mezzo.es.png" group-title="PREMIUM ESPAÑA ",ESP | MEZZO LIVE
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/55861
-#EXTINF:-1 tvg-id="" tvg-name="ESP | CANAL COCINA" tvg-logo="https://static.epg.best/es/CanalCocina.es.png" group-title="PREMIUM ESPAÑA ",ESP | CANAL COCINA
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/55867
 #EXTINF:-1 tvg-id="Telemadrid" tvg-name="ESP | TELEMADRID" tvg-logo="https://lh3.googleusercontent.com/-5TYou-SVGrs/Xx2pLv3pVqI/AAAAAAAA3eU/83GKy9h3WbsnUo61hYeLg7bp19zab5UEACK8BGAsYHg/s0/2020-07-26.png" group-title="PREMIUM ESPAÑA ",ESP | TELEMADRID
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/55869
 #EXTINF:-1 tvg-id="" tvg-name="ESP | EXTREMADURA TV" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="PREMIUM ESPAÑA ",ESP | EXTREMADURA TV
@@ -665,8 +655,6 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/55890
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/55896
 #EXTINF:-1 tvg-id="" tvg-name="ESP | FOX HD" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="PREMIUM ESPAÑA ",ESP | FOX HD
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/55898
-#EXTINF:-1 tvg-id="" tvg-name="ESP | DISNEY JR" tvg-logo="http://visualservice.xyz:80/images/ff177987fe3c3995620dc9ab951ad100.png" group-title="PREMIUM ESPAÑA ",ESP | DISNEY JR
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/55901
 #EXTINF:-1 tvg-id="" tvg-name="ESP | TCM HD" tvg-logo="https://static.epg.best/es/TCM.es.png" group-title="PREMIUM ESPAÑA ",ESP | TCM HD
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/55902
 #EXTINF:-1 tvg-id="" tvg-name="ESP | NAT GEO HD" tvg-logo="http://visualservice.xyz:80/images/64e8745649c2dc426bd4d3c932f35887.png" group-title="PREMIUM ESPAÑA ",ESP | NAT GEO HD
@@ -677,28 +665,10 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/55914
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/67522
 #EXTINF:-1 tvg-id="" tvg-name="ESP | TELEDEPORTE" tvg-logo="http://visualservice.xyz:80/images/ea6024bd8d7ef7651f99bec25acf4013.png" group-title="PREMIUM ESPAÑA ",ESP | TELEDEPORTE
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/55925
-#EXTINF:-1 tvg-id="" tvg-name="ESP | EL TORO TV" tvg-logo="http://visualservice.xyz:80/images/5d77467481f2fbce7adbf0b85169886b.png" group-title="PREMIUM ESPAÑA ",ESP | EL TORO TV
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/67515
-#EXTINF:-1 tvg-id="" tvg-name="MUNDOTORO TV" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="PREMIUM ESPAÑA ",MUNDOTORO TV
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/364416
-#EXTINF:-1 tvg-id="" tvg-name="MUNDO TORO TV" tvg-logo="http://eter-picons.one/picons/Toros_HD.png" group-title="PREMIUM ESPAÑA ",MUNDO TORO TV
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/511753
-#EXTINF:-1 tvg-id="TOROS HD" tvg-name="TOROS TV" tvg-logo="http://res.cloudinary.com/dhp6f5wqz/image/upload/v1707855711/Toros_tv_qsnktv.png" group-title="PREMIUM ESPAÑA ",TOROS TV
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/196452
-#EXTINF:-1 tvg-id="" tvg-name="TOROS TV " tvg-logo="http://eter-picons.one/picons/Toros_HD.png" group-title="PREMIUM ESPAÑA ",TOROS TV 
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/203473
-#EXTINF:-1 tvg-id="" tvg-name="ONE TORO HD" tvg-logo="https://i.imgur.com/nQH5LBq.png" group-title="PREMIUM ESPAÑA ",ONE TORO HD
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/784096
-#EXTINF:-1 tvg-id="" tvg-name="ONE TORO FHD" tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png" group-title="PREMIUM ESPAÑA ",ONE TORO FHD
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/784097
-#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnSiW8l3ksQB27CyfaJab8_eCqh1_ll-Y2UbEgiA5SD8sFpNgh&s" group-title="PREMIUM ESPAÑA ",EL TORO TV HD
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/515356
 #EXTINF:-1 tvg-id="" tvg-name="ESP | CANAL ODISEA HD" tvg-logo="http://visualservice.xyz:80/images/841121fa27af9920103e23e0a62a3baa.png" group-title="PREMIUM ESPAÑA ",ESP | CANAL ODISEA HD
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/67518
 #EXTINF:-1 tvg-id="" tvg-name="ESP | CAZYPESCA HD" tvg-logo="http://visualservice.xyz:80/images/af2b2290d2419ac058c801c47af14d90.png" group-title="PREMIUM ESPAÑA ",ESP | CAZYPESCA HD
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/67521
-#EXTINF:-1 tvg-id="" tvg-name="ESP | DECASA" tvg-logo="http://visualservice.xyz:80/images/3903936ebcb3ba811345cbf4aa9312de.png" group-title="PREMIUM ESPAÑA ",ESP | DECASA
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/67527
 #EXTINF:-1 tvg-id="" tvg-name="ESP | DMAX" tvg-logo="http://visualservice.xyz:80/images/888d0d03549e54793050d64651d143fa.png" group-title="PREMIUM ESPAÑA ",ESP | DMAX
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/67530
 #EXTINF:-1 tvg-id="" tvg-name="ESP | SUNDANCE" tvg-logo="http://visualservice.xyz:80/images/9d121e3abb6ffebf888e1aed45a72c2f.png" group-title="PREMIUM ESPAÑA ",ESP | SUNDANCE
@@ -721,32 +691,8 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/196085
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/194761
 #EXTINF:-1 tvg-id="" tvg-name="ESP-L | ARAGON TV (720P)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_aragon_tv_2016.png" group-title="ESPAÑA LOCAL",ESP-L | ARAGON TV (720P)
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/157784
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | BETEVÃ© (1080P)" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title="ESPAÑA LOCAL",ESP-L | BETEVÃ© (1080P)
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/157787
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | BLOOMBERG TV EMEA LIVE EVENT (720P)" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="ESPAÑA LOCAL",ESP-L | BLOOMBERG TV EMEA LIVE EVENT (720P)
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/157789
 #EXTINF:-1 tvg-id="" tvg-name="ESP-L | CANAL 2000 LA SOLANA (720P)" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title="ESPAÑA LOCAL",ESP-L | CANAL 2000 LA SOLANA (720P)
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/157796
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | DIEZ TV (1080P)" tvg-logo="https://i.imgur.com/5KXkBbs.jpg" group-title="ESPAÑA LOCAL",ESP-L | DIEZ TV (1080P)
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/157838
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | LOGOS TV (1080P)" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title="ESPAÑA LOCAL",ESP-L | LOGOS TV (1080P)
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/157915
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | LOGOS TV (720P)" tvg-logo="https://proyectoesperanza.es/wp-content/uploads/2017/02/logos-logo-big.png" group-title="ESPAÑA LOCAL",ESP-L | LOGOS TV (720P)
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/157916
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | PEQUERADIO (720P) [NOT 24/7]" tvg-logo="https://static.wixstatic.com/media/76b12f_c9171baf0d3145ea986102ebda0042e5~mv2.png" group-title="ESPAÑA LOCAL",ESP-L | PEQUERADIO (720P) [NOT 24/7]
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/157937
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | PUNT 3 VALL UIXÃ³ (1080P)" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title="ESPAÑA LOCAL",ESP-L | PUNT 3 VALL UIXÃ³ (1080P)
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/157943
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | RADIO TELEVISIÃ³N MELILLA (720P)" tvg-logo="https://graph.facebook.com/TelevisionMelilla/picture?width=320&height=320" group-title="ESPAÑA LOCAL",ESP-L | RADIO TELEVISIÃ³N MELILLA (720P)
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/157945
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | RTV VIDA (1080P)" tvg-logo="http://visualservice.xyz:80/nologo.png" group-title="ESPAÑA LOCAL",ESP-L | RTV VIDA (1080P)
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/158002
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | SOLIDARIA TV (720P)" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/solidaria-tv.png" group-title="ESPAÑA LOCAL",ESP-L | SOLIDARIA TV (720P)
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/158007
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | TELERIBERA (720P)" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg" group-title="ESPAÑA LOCAL",ESP-L | TELERIBERA (720P)
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/158017
-#EXTINF:-1 tvg-id="" tvg-name="ESP-L | TUYA LA JANDA TELEVISIÃ³N (1080P)" tvg-logo="https://graph.facebook.com/8lajanda/picture?width=320&height=320" group-title="ESPAÑA LOCAL",ESP-L | TUYA LA JANDA TELEVISIÃ³N (1080P)
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/158027
 #EXTINF:-1 tvg-id="" tvg-name="ESP | MOVISTAR ESTRENOS 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MEST2.png" group-title="MOVISTAR +",ESP | MOVISTAR ESTRENOS 2 FHD
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/298112
 #EXTINF:-1 tvg-id="GOL" tvg-name="ES: GOL PLAY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaredjrH2k2zJhHwvxrX2uyxt2nhk82ZP1Q&s" group-title="PREMIUM ESPAÑA ",ES: GOL PLAY HD
@@ -777,8 +723,6 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/21944
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/31264
 #EXTINF:-1 tvg-id="" tvg-name="EUR | BEIN SPORTS LALIGA USA HD (P)  " tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="BEIN SPORTS",EUR | BEIN SPORTS LALIGA USA HD (P)  
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/31270
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD ingles" tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="BEIN SPORTS",BEIN SPORTS HD ingles
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/90012
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 PREMIUM" tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="BEIN SPORTS",beIN SPORTS 1 PREMIUM
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/166665
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 PREMIUM" tvg-logo="http://visualservice.xyz:80/images/6d51c6dc03d1605f0a0c6ea1c9d6aa89.png" group-title="BEIN SPORTS",beIN SPORTS 3 PREMIUM
@@ -805,8 +749,6 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/371024
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/372204
 #EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="PREMIUM ESPAÑA ",CAZA Y PESCA
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/379487
-#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo="" group-title="PREMIUM ESPAÑA ",DREAMWORKS
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/396233
 #EXTINF:-1 tvg-id="" tvg-name="ES | IBERALIA" tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png" group-title="ESPAÑA LOCAL",ES | IBERALIA
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/447108
 #EXTINF:-1 tvg-id="" tvg-name="ES | CAZAVISION HD" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png" group-title="ESPAÑA LOCAL",ES | CAZAVISION HD
@@ -835,16 +777,8 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/498175
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/540906
 #EXTINF:-1 tvg-id="" tvg-name="GOLTV ECUADOR HD" tvg-logo="http://visualservice.xyz:80/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="GOLTV",GOLTV ECUADOR HD
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/21993
-#EXTINF:-1 tvg-id="" tvg-name="NOTI | CNN ESP CL  *CB" tvg-logo="https://static.epg.best/us/CNNEspanol.us.png" group-title="NOTICIAS INTERNACIONALES",NOTI | CNN ESP CL  *CB
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/31075
 #EXTINF:-1 tvg-id="" tvg-name="LAT | CINELATINO*CB" tvg-logo="http://visualservice.xyz:80/images/a4eceecf5d76d39581d4125e1e34754a.png" group-title="PREMIUM LATINO",LAT | CINELATINO*CB
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/31249
-#EXTINF:-1 tvg-id="" tvg-name="COL | TELEANTIOQUIA HD***CB" tvg-logo="http://visualservice.xyz:80/images/f9318418184f449baf2b148a3a6a6021.png" group-title="COLOMBIA",COL | TELEANTIOQUIA HD***CB
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/31377
-#EXTINF:-1 tvg-id="" tvg-name="COL | CANAL INSTITUCIONAL HD*CB" tvg-logo="http://visualservice.xyz:80/images/a244d019d3349a0f8103a657fceebd1a.png" group-title="COLOMBIA",COL | CANAL INSTITUCIONAL HD*CB
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/31382
-#EXTINF:-1 tvg-id="" tvg-name="COL | LA KALLE HD*CB" tvg-logo="http://visualservice.xyz:80/images/b389ee4954f151c9841ac0deb343a951.png" group-title="COLOMBIA",COL | LA KALLE HD*CB
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/31387
 #EXTINF:-1 tvg-id="" tvg-name="ECU | TVC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TVCEC.png" group-title="ECUADOR",ECU | TVC FHD
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/32152
 #EXTINF:-1 tvg-id="" tvg-name="ESP | CINE DISNEY 24/7" tvg-logo="https://static.epg.best/es/DisneyXD.es.png" group-title="PREMIUM ESPAÑA ",ESP | CINE DISNEY 24/7
@@ -873,8 +807,6 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/343220
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440755
 #EXTINF:-1 tvg-id="" tvg-name="SD SUR Win Sports+*CB" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqLJ0Dv8oQsfcecc44jrLkrToEsZiQxncdX3ukMDA3jva2o94NQKoqdetpK0CcOwJ48.jpeg" group-title="WIN SPORTS",SD SUR Win Sports+*CB
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440765
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR REC TV*CB" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR REC TV*CB
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440799
 #EXTINF:-1 tvg-id="" tvg-name="Win Sports+ SUR*CB" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsUwAEvUoVgVPTRxVXI_c_jE.png" group-title="WIN SPORTS",Win Sports+ SUR*CB
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440898
 #EXTINF:-1 tvg-id="" tvg-name="ENERGY OP 1" tvg-logo="https://static.epg.best/es/Energy.es.png" group-title="PREMIUM ESPAÑA ",ENERGY OP 1
@@ -917,10 +849,6 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/786107
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/786123
 #EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="PREMIUM ESPAÑA ",AXN FHD
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/791982
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONE TORO SD" tvg-logo="https://www.tivify.es/wp-content/uploads/2023/08/ONETORO-LOGO-2.png" group-title="PREMIUM ESPAÑA ",ONE TORO SD
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/795582
-#EXTINF:-1 tvg-id="Onetoro" tvg-name="ONETORO FHD*" tvg-logo="https://i.imgur.com/HGLxlSq.png" group-title="PREMIUM ESPAÑA ",ONETORO FHD*
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/795583
 #EXTINF:-1 tvg-id="Ten" tvg-name="TEN sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png" group-title="PREMIUM ESPAÑA ",TEN sd
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/797842
 #EXTINF:-1 tvg-id="" tvg-name="TEN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png" group-title="PREMIUM ESPAÑA ",TEN FHD
@@ -931,8 +859,6 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/805112
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/805457
 #EXTINF:-1 tvg-id="National Geographic HD" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="PREMIUM ESPAÑA ",ES: NATIONAL GEOGRAPHIC HD
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/805458
-#EXTINF:-1 tvg-id="" tvg-name="ES: DECASA 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="PREMIUM ESPAÑA ",ES: DECASA 4K
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/805459
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="D-ESP | LIGA CAMPEONES 2 HD" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="M+ CAMPEONES",D-ESP | LIGA CAMPEONES 2 HD
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/815115
 #EXTINF:-1 tvg-id="" tvg-name="CINE | SOMOS ʰᵈ" " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SOMOS.png" group-title="ESPAÑA LOCAL",CINE | SOMOS ʰᵈ" 
@@ -969,8 +895,6 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/279534
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/136656
 #EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-name="MOVISTAR GOLF 2 HD" tvg-logo="https://lo1.in/LOGO/SPAIN/Movistar_Golf.png" group-title="M+ DEPORTES",MOVISTAR GOLF 2 HD
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/494064
-#EXTINF:-1 tvg-id="" tvg-name="No usar " tvg-logo="" group-title="AVISO",No usar 
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/1035728
 #EXTINF:-1 tvg-id="" tvg-name="SAT | UNIVERSAL CHANNEL FHD SUR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY92YKLSX4pOWU0RxeNcEVenTL-mCXcc0VwQ&usqp=CAU" group-title="PREMIUM SATELITE",SAT | UNIVERSAL CHANNEL FHD SUR
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/292824
 #EXTINF:-1 tvg-id="" tvg-name="SAT | CINE | CINEMAX SD" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/640px-Cinemax_%28Yellow%29.svg.png" group-title="PREMIUM SATELITE",SAT | CINE | CINEMAX SD
@@ -1027,54 +951,14 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440735
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440736
 #EXTINF:-1 tvg-id="" tvg-name="Discovery SUR" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsdmfmw2D5I8wIeYggFiBUXA.png" group-title="PREMIUM SATELITE",Discovery SUR
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440737
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE O NORTE" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqL0bR10o2_EAZ-taUojv-zFcwI01mA78Brv8tssESP2zBdER8ns2Gr5JDiQaZoK33I.png" group-title="PREMIUM SATELITE",UNIVERSAL PREMIERE O NORTE
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440738
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL PREMIERE NORTE" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqL0bR10o2_EAZ-taUojv-zFcwI01mA78Brv8tssESP2zBdER8ns2Gr5JDiQaZoK33I.png" group-title="PREMIUM SATELITE",UNIVERSAL PREMIERE NORTE
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440739
 #EXTINF:-1 tvg-id="" tvg-name="TNT NORTE" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsWU0laHlNOAi4BYVhZSyBuM.png" group-title="PREMIUM SATELITE",TNT NORTE
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440740
 #EXTINF:-1 tvg-id="" tvg-name="Sony Movies NORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/960px-Sony_Movies_Logo.svg.png" group-title="PREMIUM SATELITE",Sony Movies NORTE
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440741
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NT NORTE" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqJTWkzEYgmHUzs83zC9wGEWV2_AWwE5bwI4ct4YbTr_YRecKZaIBrgwweGB-xXQYcM.png" group-title="PREMIUM SATELITE",CARTOON NT NORTE
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440742
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR WILLAX" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR WILLAX
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440743
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR Universal" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR Universal
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440744
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR Unicanal" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR Unicanal
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440745
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR Trece" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR Trece
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440746
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR Telepacifico" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR Telepacifico
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440747
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR Telefuturo" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR Telefuturo
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440748
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR Telefe" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR Telefe
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440749
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR Teleamazonas" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR Teleamazonas
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440750
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR TV Peru" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR TV Peru
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440751
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR SURTV" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR SURTV
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440752
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR Panamericana TV" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR Panamericana TV
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440753
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR NPY" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR NPY
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440754
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR HomeandHealth" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR HomeandHealth
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440756
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR Ecuavisa" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR Ecuavisa
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440758
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR Claro Cinema" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR Claro Cinema
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440759
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR Canal Uno" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR Canal Uno
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440760
 #EXTINF:-1 tvg-id="" tvg-name="SD SUR Canal RCN" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR Canal RCN
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440761
 #EXTINF:-1 tvg-id="" tvg-name="SD SUR Canal Caracol" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR Canal Caracol
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440762
-#EXTINF:-1 tvg-id="" tvg-name="SD SUR ATV" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR ATV
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440763
 #EXTINF:-1 tvg-id="" tvg-name="SD SUR Zona Latina" tvg-logo="" group-title="PREMIUM SATELITE",SD SUR Zona Latina
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440764
 #EXTINF:-1 tvg-id="" tvg-name="SD SUR Win Sports" tvg-logo="" group-title="WIN SPORTS",SD SUR Win Sports
@@ -1381,10 +1265,6 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440955
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440956
 #EXTINF:-1 tvg-id="" tvg-name="NORTE Discovery kids." tvg-logo="" group-title="PREMIUM SATELITE",NORTE Discovery kids.
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440957
-#EXTINF:-1 tvg-id="" tvg-name="NORTE Golden premiere 2" tvg-logo="" group-title="PREMIUM SATELITE",NORTE Golden premiere 2
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440958
-#EXTINF:-1 tvg-id="" tvg-name="NORTE Golden premiere" tvg-logo="" group-title="PREMIUM SATELITE",NORTE Golden premiere
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440959
 #EXTINF:-1 tvg-id="" tvg-name="NORTE Canal 4" tvg-logo="" group-title="PREMIUM SATELITE",NORTE Canal 4
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440960
 #EXTINF:-1 tvg-id="" tvg-name="NORTE Canal 7 CR" tvg-logo="" group-title="PREMIUM SATELITE",NORTE Canal 7 CR
@@ -1401,8 +1281,6 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440965
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440966
 #EXTINF:-1 tvg-id="" tvg-name="NORTE Univision 4K+" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqLj9XenBP5QrBZLgoVMrRBZd9fvZiBT3y0a092plsTzvOADwJ2pk-lBjY6p9TevZwQ.png" group-title="PREMIUM SATELITE",NORTE Univision 4K+
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440967
-#EXTINF:-1 tvg-id="" tvg-name="NORTE UNIVERSAL REALITY 4K+" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqI576Hd7ysnpVuMTmORJCzSovWerpuxWAOSgsZbZka87ScUedL8SpJdHiJFlRmB-6U.png" group-title="PREMIUM SATELITE",NORTE UNIVERSAL REALITY 4K+
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440968
 #EXTINF:-1 tvg-id="" tvg-name="NORTE UNIVERSAL CRIME HD" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqKh72y6alFTAxhDj9Dpg8DSxaheFJOwltLPDFDsF4FspSqhamth-nM3zPaR89Wk2lY.png" group-title="PREMIUM SATELITE",NORTE UNIVERSAL CRIME HD
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440969
 #EXTINF:-1 tvg-id="" tvg-name="NORTE UNIVERSAL COMEDY 4K+" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqKyjZjqyR4jHdoS3Pc313od8Zl-nKgt4AU0brD3nhv77XGcEt6faXYz5IBiV0YofR8.png" group-title="PREMIUM SATELITE",NORTE UNIVERSAL COMEDY 4K+
@@ -1421,14 +1299,10 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440975
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440976
 #EXTINF:-1 tvg-id="" tvg-name="NORTE SONY 4K+" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqLObMG_hcDxtR14hmzb3VYEWD4iJXwsbIu0WlRpkC0eLn9wm3OzjobxkBwThxnf1QM.png" group-title="PREMIUM SATELITE",NORTE SONY 4K+
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440977
-#EXTINF:-1 tvg-id="" tvg-name="NORTE Pasiones 4K+" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqI3knJC55qKbPmcGWPeSeSa_i4b0S7g7sXJu_OyES0xev4R2RHfWNGeMQ2zEDFwsRI.png" group-title="PREMIUM SATELITE",NORTE Pasiones 4K+
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440978
 #EXTINF:-1 tvg-id="" tvg-name="NORTE Paramount 4K+" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqJjXFeAPbOdS8F9POzbskuWv_Vzs1g0DPaRJqJ_O0gQwOnVUKH1IyBjZR3Maa_u2nk.png" group-title="PREMIUM SATELITE",NORTE Paramount 4K+
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440979
 #EXTINF:-1 tvg-id="" tvg-name="NORTE Nat Geo 4K+" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsXZ7JsOxRw2uT1NDvmtCSEs.png" group-title="PREMIUM SATELITE",NORTE Nat Geo 4K+
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440980
-#EXTINF:-1 tvg-id="" tvg-name="NORTE Home & Health 4K+" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqKiRrbGY1BnGOYWNTJU3yRVtKh_8sUusfYbEosqPtQSOxEXvEXq7iA7-vL3rVnONIM.png" group-title="PREMIUM SATELITE",NORTE Home & Health 4K+
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440981
 #EXTINF:-1 tvg-id="" tvg-name="NORTE HOLA! TV 4K+" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsSzFtAnoWxvqZrU75xH7Nuk.png" group-title="PREMIUM SATELITE",NORTE HOLA! TV 4K+
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440982
 #EXTINF:-1 tvg-id="" tvg-name="NORTE HBO2 4K+" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsZgz-YJlaIHH8DzXposEolM.png" group-title="PREMIUM SATELITE",NORTE HBO2 4K+
@@ -1439,8 +1313,6 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440984
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440985
 #EXTINF:-1 tvg-id="" tvg-name="NORTE HBO Family HD" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsZMNfeIqPGuu1jB0Ok2UzyU.png" group-title="PREMIUM SATELITE",NORTE HBO Family HD
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440986
-#EXTINF:-1 tvg-id="" tvg-name="NORTE Film & arts 4K+" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqIaSBP6Wgks8Q5mRe9qq-vQ618OLEPmffct7kjUMjrpYIbdHlwbC2JsE3fmCU8BKnI.png" group-title="PREMIUM SATELITE",NORTE Film & arts 4K+
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440987
 #EXTINF:-1 tvg-id="" tvg-name="NORTE FX 4K+" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBscd3hS2RqT6VEKlf1lQgRJM.png" group-title="PREMIUM SATELITE",NORTE FX 4K+
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/440988
 #EXTINF:-1 tvg-id="" tvg-name="FUTV 4K+" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqL-j2bElcGcHNQyL9Fadwnex8bNt-wa_zMqGZm-Hufhl1i9Vm32ILvmmJNl1tMDsL4.png" group-title="PREMIUM SATELITE",FUTV 4K+
@@ -1467,8 +1339,6 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/441002
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/441003
 #EXTINF:-1 tvg-id="" tvg-name="NORTE CINECANAL 4K+" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsXpcmQLkB1561v-mK25xlEQ.png" group-title="PREMIUM SATELITE",NORTE CINECANAL 4K+
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/441004
-#EXTINF:-1 tvg-id="" tvg-name="NORTE Animal Planet 4k+" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsSPGAEnTzNu2r4qYp1JnoNo.png" group-title="PREMIUM SATELITE",NORTE Animal Planet 4k+
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/441005
 #EXTINF:-1 tvg-id="" tvg-name="NORTE AZ click 4k+" tvg-logo="http://guatv.xyz:80/images/TR6viMq4wirXn6cZ-1UGnEjyFJzXK6tRgs7sUsz8HqIat5z2gcwYU-Uu9g0s-eVQCB73wQv7CTZMjxJ-krZZTnOwL5O9Z-nFGNRRBmEz3ik.png" group-title="PREMIUM SATELITE",NORTE AZ click 4k+
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/441006
 #EXTINF:-1 tvg-id="" tvg-name="NORTE AXN 4k+" tvg-logo="http://guatv.xyz:80/images/mg9e4VnU5MiobcDarwnBsSk3oE9v1OCn8auhy2hgzP4.png" group-title="PREMIUM SATELITE",NORTE AXN 4k+
