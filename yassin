@@ -387,10 +387,6 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/780882
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/792704
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 SD" tvg-logo="" group-title="PREMIUM ESPAÑA ",EUROSPORT 2 SD
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/792705
-#EXTINF:-1 tvg-id="" tvg-name="USA NETWORK *" tvg-logo="" group-title="USA News",USA NETWORK *
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/808149
-#EXTINF:-1 tvg-id="" tvg-name="USA NETWORK **" tvg-logo="" group-title="USA News",USA NETWORK **
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/808150
 #EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2 COLOMBIA" tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV",DIRECTV SPORTS 2 COLOMBIA
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/811804
 #EXTINF:-1 tvg-id="DAZN Baloncesto 2" tvg-name="ACB | Evento 02" tvg-logo="https://www.unicajabaloncesto.com/Documentos/Fotos/4/7/6/9/476905_1011.jpg" group-title="LIGA ACB",ACB | Evento 02
