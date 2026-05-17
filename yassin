@@ -837,16 +837,8 @@ http://intelcarlos.xyz:8080/MURPHY10/XPHVR/762759
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/767907
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="VAMOS FHD*2" tvg-logo="https://images2.imgbox.com/de/1f/wtPdc0wD_o.png" group-title="MOVISTAR +",VAMOS FHD*2
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/767908
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL COCINA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="PREMIUM ESPAÑA ",ES: CANAL COCINA HD
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/768819
 #EXTINF:-1 tvg-id="La 2" tvg-name="ESP | LA 2*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png" group-title="PREMIUM ESPAÑA ",ESP | LA 2*
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/769478
-#EXTINF:-1 tvg-id="" tvg-name="IT/ RAI ITALIA" tvg-logo="https://static.epg.best/it/RaiItalia.it.png" group-title="ITALIA",IT/ RAI ITALIA
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/784521
-#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f0/Mezzo_Live_HD.png" group-title="PREMIUM ESPAÑA ",MEZZO LIVE FULL HD
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/786107
-#EXTINF:-1 tvg-id="" tvg-name="Stingray CLASSICA" tvg-logo="https://i.imgur.com/nh1k5RC.png" group-title="PREMIUM ESPAÑA ",Stingray CLASSICA
-http://intelcarlos.xyz:8080/MURPHY10/XPHVR/786123
 #EXTINF:-1 tvg-id="" tvg-name="AXN FHD" tvg-logo="https://i.ibb.co/Hxt8qXB/axn.png" group-title="PREMIUM ESPAÑA ",AXN FHD
 http://intelcarlos.xyz:8080/MURPHY10/XPHVR/791982
 #EXTINF:-1 tvg-id="Ten" tvg-name="TEN sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ten.svg/1200px-Ten.svg.png" group-title="PREMIUM ESPAÑA ",TEN sd
