@@ -113,12 +113,12 @@ http://31.43.191.125:8080/VIP01155171629672980/bf7314c8358b/293
 http://31.43.191.125:8080/VIP01155171629672980/bf7314c8358b/281
 #EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="ES: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png" group-title="ES | DEPORTES VIP",ES: EUROSPORT 2
 http://31.43.191.125:8080/VIP01155171629672980/bf7314c8358b/282
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 1) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS VIP",ES: (LÍNEA 1) ONETORO
-http://31.43.191.125:8080/VIP01155171629672980/bf7314c8358b/631
-#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: TOROLE TV" tvg-logo="https://docdog.top/logo/countries/spain/movistar/torole_tv.png" group-title="ES | TOROS VIP",ES: TOROLE TV
-http://31.43.191.125:8080/VIP01155171629672980/bf7314c8358b/37678
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES: (LÍNEA 2) ONETORO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/one_toro.png" group-title="ES | TOROS VIP",ES: (LÍNEA 2) ONETORO
-http://31.43.191.125:8080/VIP01155171629672980/bf7314c8358b/38816
+#EXTINF:-1,ES: TENNIS CHANNEL FHD
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/76514
+#EXTINF:-1,ES: TENNIS CHANNEL HD
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/76515
+#EXTINF:-1,ES: TENNIS CHANNEL
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/77449
 #EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: (FHD) M+ VAMOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="ES | DEPORTES VIP",ES: (FHD) M+ VAMOS
 http://31.43.191.125:8080/VIP01155171629672980/bf7314c8358b/632
 #EXTINF:-1 tvg-id="" tvg-name="ES: (FHD) M+ VAMOS 2" tvg-logo="https://docdog.top/logo/countries/es/M_VAMOS_2.png" group-title="ES | DEPORTES VIP",ES: (FHD) M+ VAMOS 2
@@ -171,6 +171,20 @@ http://31.43.191.125:8080/VIP01155171629672980/bf7314c8358b/646
 http://31.43.191.125:8080/VIP01155171629672980/bf7314c8358b/650
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="ES | TOP CANALES VIP",ES: CUATRO
 http://31.43.191.125:8080/VIP01155171629672980/bf7314c8358b/651
+#EXTINF:-1,ES: AMC WESTERN FHD
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/77219
+#EXTINF:-1,ES: AMC WESTERN HD
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/77220
+#EXTINF:-1,ES: AMC WESTERN SD
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/77221
+#EXTINF:-1,ES: SQUIRREL TV FHD
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/76551
+#EXTINF:-1,ES: SQUIRREL TV HD
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/76587
+#EXTINF:-1,ES: SQUIRREL  SD
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/77178
+#EXTINF:-1,ES: SQUIREEL 2
+http://kb87.eshofrcep.top:8080/669846474/AntonioNoclaManuel5/76895
 #EXTINF:-1 tvg-id="Factoria de Ficcion" tvg-name="ES: FACTORÍA DE FICCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="ES | TOP CANALES VIP",ES: FACTORÍA DE FICCIÓN
 http://31.43.191.125:8080/VIP01155171629672980/bf7314c8358b/652
 #EXTINF:-1 tvg-id="Nova.es" tvg-name="ES: NOVA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Nova.png" group-title="ES | TOP CANALES VIP",ES: NOVA
